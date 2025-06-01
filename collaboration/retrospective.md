@@ -3,6 +3,7 @@
 # Retrospective
 
 ## Stop Doing
+
 •	Stop assuming all team members understand the context equally—cultural 
 and language differences can lead to miscommunication.
 
@@ -12,6 +13,7 @@ which causes fatigue or absenteeism.
 •	Stop delaying feedback—waiting too long slows our momentum.
 
 ## Continue Doing
+
 •	Continue using shared documents and cloud-based tools to collaborate in real time.
 
 •	Continue being respectful of cultural differences and open to diverse viewpoints.
@@ -21,6 +23,7 @@ which causes fatigue or absenteeism.
 •	Continue conducting regular check-ins to maintain accountability and track progress.
 
 ## Start Doing
+
 •	Start creating quick summary notes after meetings to ensure everyone is aligned.
 
 •	Start setting clearer short-term goals during long-term projects to maintain focus.
