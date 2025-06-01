@@ -5,10 +5,10 @@
 ## Stop Doing
 
 • Stop assuming all team members understand the context equally—cultural 
-  and language differences can lead to miscommunication.
+   and language differences can lead to miscommunication.
 
 • Stop scheduling meetings without considering different time zones, 
-  which causes fatigue or absenteeism.
+   which causes fatigue or absenteeism.
 
 •	Stop delaying feedback—waiting too long slows our momentum.
 
