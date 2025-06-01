@@ -5,10 +5,10 @@
 ## Stop Doing
 
 •	Stop assuming all team members understand the context equally—cultural 
-and language differences can lead to miscommunication.
+ and language differences can lead to miscommunication.
 
 •	Stop scheduling meetings without considering different time zones, 
-which causes fatigue or absenteeism.
+ which causes fatigue or absenteeism.
 
 •	Stop delaying feedback—waiting too long slows our momentum.
 
@@ -31,7 +31,7 @@ which causes fatigue or absenteeism.
 ## Lessons Learned
 
 •	Flexibility is essential—plans often need to change due to time 
-zone constraints or unexpected technical issues.
+ zone constraints or unexpected technical issues.
 
 •	Over-communication is better than under-communication when working online.
 
@@ -40,7 +40,6 @@ zone constraints or unexpected technical issues.
 •	Trust and clarity build over time, but both need to be actively nurtured.
  
 ---
-
 ## Strategy vs. Board
 
 ### What parts of your plan went as expected?
@@ -48,7 +47,7 @@ zone constraints or unexpected technical issues.
 •	The division of tasks among members based on skillsets worked very well.
 
 •	Using collaboration tools like Google Drive and Google Meet 
-facilitated coordination effectively.
+ facilitated coordination effectively.
 
 •	The majority of deadlines were met thanks to good planning and proactive follow-ups.
  
