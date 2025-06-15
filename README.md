@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=318BB6&center=true&width=435&lines=The+Curious+Minds💡!)](https://git.io/typing-svg)
+# __THE CURIOUS MINDS💡!__
 
 *Welcome to the Curious Minds' repository! We are thrilled to have you here.*
 
@@ -59,8 +59,7 @@ in South Sudan, and what policy measures are needed to support these solutions?_
 
 *Access our Group's detailed
 understanding
-of the domain in [Summary of Understan
-ding](0_domain_study/summary_of_our_understanding.md) file.*
+of the domain in [Summary of Understanding](0_domain_study/summary_of_our_understanding.md) file.*
 
 ## How do we team up?🤝
 
