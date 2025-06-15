@@ -7,7 +7,8 @@ To decide we followed two techiques __Convergent__ and __Divergent__ thinking.
 - __Divergent Thinking__:
   
   All members shared their interests and found that we are all
-  interested in __climate__ and __education__. So we decided to search for a climate related
+  interested in __climate__ and __education__. So we decided to search for a
+  climate related
   questions and add all our ideas to a common [folder.](https://docs.google.com/document/d/1sP7SEOIk5nfMWbOkqMjhV4sDKyj_dIqOehNsN90ySrw/edit?tab=t.0)
   Most of the suggested topics were broad so we started to search in Google Scholar
    to widen our understading in the topics and to find gaps in the suggested topics.
