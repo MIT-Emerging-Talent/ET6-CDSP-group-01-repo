@@ -2,7 +2,6 @@
 
 We had two weeks to decide which research questions should our research focus on.
 To decide we followed two techiques __Convergent__ and __Divergent__ thinking.
-![color picker](https://tenor.com/en-GB/view/imfrontman-frontman-brainstorming-kancelar-kancelář-gif-27501874)
 
 - __Divergent Thinking__:
   

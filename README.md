@@ -19,7 +19,7 @@ We are a group of passionate data science enthusiasts who believe in the power
 
 ## About Our Project
 
-You can access more information about the process of choosing the question in
+You can access more information about the process of choosing the question in the
 [brainstorming](0_domain_study/brainstorming.md) file.
 
 ### 🚀 Problem Statement
@@ -57,7 +57,7 @@ in South Sudan, and what policy measures are needed to support these solutions?_
 
 ## Our group understanding of the problem domain
 
-Access our Group's detailed understanding of the domain in [Summary of Understanding](0_domain_study/guide.md)
+*Access our Group's detailed understanding of the domain in [Summary of Understanding](0_domain_study/summary_of_our_understanding.md) file.*
 
 ## How do we team up?🤝
 
