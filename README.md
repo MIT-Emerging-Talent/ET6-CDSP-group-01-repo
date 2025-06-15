@@ -1,4 +1,4 @@
-# __The Curious Minds 💡__
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=318BB6&center=true&width=435&lines=The+Curious+Minds💡!)](https://git.io/typing-svg)
 
 *Welcome to the Curious Minds' repository! We are thrilled to have you here.*
 
@@ -23,6 +23,31 @@ You can access more information about the process of choosing the question in [b
 
 ### 🚀 Problem Statement
 
+Climate change is increasingly forcing millions of people worldwide to flee their
+homes due to rising sea levels, extreme weather events, prolonged droughts, and
+catastrophic flooding. Unlike traditional migration, climate displacement is
+often sudden, involuntary, and leaves affected populations with no safe return
+options. Without urgent intervention, the World Bank estimates that over 216
+million people could be displaced within their own countries by 2050 due to
+climate-related impacts, particularly in
+developing countries, which lack sufficient infrastructure, technology, and means.
+
+For example, in South Sudan, increasingly severe and frequent flooding, caused
+by heavy rainfall and overflow from rivers like the Nile and its tributaries,
+submerge homes, destroy crops, drown livestock, and displace thousands of people.
+Despite these recurring disasters, current disaster response mechanisms are
+largely reactive rather than proactive, due to the lack of sufficient infrastruc
+ture, technology, and predictive systems to effectively anticipate and mitigate
+flood damage.
+
+This is where data science can play a transformative role. By leveraging
+satellite imagery, hydrological data, current and historical climate data, such
+as flood patterns, together with machine learning models, we can develop early
+warning systems, improve flood forecasting, and optimize emergency response
+efforts. Accordingly, this project seeks to investigate how data-driven
+approaches could help reduce displacement, save lives, and protect livelihoods
+in vulnerable regions of South Sudan, as well as other countries
+
 ### 🔬 Actionable Research Questions
 
 In what ways can data-driven approaches address flood-related climate
@@ -32,8 +57,6 @@ in South Sudan, and what policy measures are needed to support these solutions?
 ## Our group understanding of the problem domain
 
 Access our Group's detailed understanding of the domain in [Summary of Understanding](0_domain_study/guide.md)
-
-### 🔄 System & Design Thinking
 
 ## How do we team up?🤝
 
