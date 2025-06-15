@@ -19,7 +19,7 @@ We are a group of passionate data science enthusiasts who believe in the power
 
 ## About Our Project
 
-You can access more information about the process of choosing the question in [Brainstorming.md](0_domain_study/brainstorming.md)
+You can access more information about the process of choosing the question in [brainstorming.md](0_domain_study/brainstorming.md)
 
 ### 🚀 Problem Statement
 
