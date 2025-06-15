@@ -11,6 +11,30 @@ We are a group of passionate data science enthusiasts who believe in the power
   of data science using Python, while fostering a supportive community where
    everyone can grow and thrive.
 
+### Research Topics
+
+- Climate Displacement
+- Climate Injustice
+- Extreme Weather conditions predicition
+
+## About Our Project
+
+You can access more information about the process of choosing the question in [Brainstorming.md](0_domain_study/Brainstorming.md)
+
+### 🚀 Problem Statement
+
+### 🔬 Actionable Research Questions
+
+In what ways can data-driven approaches address flood-related climate
+ displacement
+in South Sudan, and what policy measures are needed to support these solutions?
+
+## Our group understanding of the problem domain
+
+Access our Group's detailed understanding of the domain in [Summary of Understanding](0_domain_study/guide.md)
+
+### 🔄 System & Design Thinking
+
 ## How do we team up?🤝
 
 We work together in the following ways:
@@ -29,3 +53,8 @@ We work together in the following ways:
 - [__Nada Hamza__](https://github.com/Nadaali1232)
 - [__Dr.Amin Abd Elraheem__](https://github.com/Dr-Amin-K)
 - [__Ndubuisi Agbo__](https://github.com/ndubuisia)
+
+## 🤝 Contributing
+
+We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for
+guidelines.
