@@ -59,7 +59,9 @@ in South Sudan, and what policy measures are needed to support these solutions?_
 
 *Access our Group's detailed
 understanding
-of the domain in [Summary of Understanding](0_domain_study/summary_of_our_understanding.md) file.*
+of the domain in
+[Summary of Understanding](0_domain_study/summary_of_our_understanding.md)
+file.*
 
 ## How do we team up?🤝
 
