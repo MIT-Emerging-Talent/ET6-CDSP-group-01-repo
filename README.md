@@ -19,7 +19,8 @@ We are a group of passionate data science enthusiasts who believe in the power
 
 ## About Our Project
 
-You can access more information about the process of choosing the question in [brainstorming.md](0_domain_study/brainstorming.md)
+You can access more information about the process of choosing the question in
+[brainstorming](0_domain_study/brainstorming.md) file.
 
 ### 🚀 Problem Statement
 
@@ -50,9 +51,9 @@ in vulnerable regions of South Sudan, as well as other countries
 
 ### 🔬 Actionable Research Questions
 
-In what ways can data-driven approaches address flood-related climate
+__In what ways can data-driven approaches address flood-related climate
  displacement
-in South Sudan, and what policy measures are needed to support these solutions?
+in South Sudan, and what policy measures are needed to support these solutions?__
 
 ## Our group understanding of the problem domain
 
@@ -77,7 +78,7 @@ We work together in the following ways:
 - [__Dr.Amin Abd Elraheem__](https://github.com/Dr-Amin-K)
 - [__Ndubuisi Agbo__](https://github.com/ndubuisia)
 
-## 🤝 Contributing
+### 🤝 Contributing
 
 We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for
 guidelines.
