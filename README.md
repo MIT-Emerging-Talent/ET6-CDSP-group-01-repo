@@ -47,7 +47,7 @@ as flood patterns, together with machine learning models, we can develop early
 warning systems, improve flood forecasting, and optimize emergency response
 efforts. Accordingly, this project seeks to investigate how data-driven
 approaches could help reduce displacement, save lives, and protect livelihoods
-in vulnerable regions of South Sudan, as well as other countries
+in vulnerable regions of South Sudan, as well as other countries.
 
 ### 🔬 Actionable Research Questions
 
@@ -59,7 +59,7 @@ in South Sudan, and what policy measures are needed to support these solutions?_
 
 *Access our Group's detailed
 understanding
-of the domain in
+of the domain in the [background review](0_domain_study/background_review.md) file and
 [Summary of Understanding](0_domain_study/summary_of_our_understanding.md)
 file.*
 

@@ -6,10 +6,11 @@ To decide we followed two techiques __Convergent__ and __Divergent__ thinking.
 - __Divergent Thinking__:
   
   All members shared their interests and found that we are all
-  interested in __climate__ and __education__. So we decided to search for a
-  climate related
+  interested in __climate__ and __education__. So we decided to search for
+  climate and education related
   questions and add all our ideas to a common [folder.](https://docs.google.com/document/d/1sP7SEOIk5nfMWbOkqMjhV4sDKyj_dIqOehNsN90ySrw/edit?tab=t.0)
-  Most of the suggested topics were broad so we started to search in Google Scholar
+  Most of the suggested topics were broad so we started to search for research  
+  papers in the topics
    to widen our understading in the topics and to find gaps in the suggested topics.
 
 - __Convergent Thinking__:
@@ -18,7 +19,7 @@ To decide we followed two techiques __Convergent__ and __Divergent__ thinking.
  and __PICOT__ frameworks into the following:
 
  _you can find more info about the
- questions in the embbeded links_
+ questions in the embedded links_
   
 1. [Effects of pupil to teacher ratio in public education in Uganda](https://docs.google.com/document/d/15bs8AzCSqWfmRrz06rQ-F2ULBD8CeLPLkVEDemBUevY/edit?tab=t.0)
 2. [How using biased data to train AI models used in climate adaptation increase
