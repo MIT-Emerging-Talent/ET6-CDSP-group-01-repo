@@ -14,7 +14,7 @@ broader impacts on livelihoods, health, and infrastructure.
 - Brainstorming Summery
 - Background Review file containing literature review of the research
 - Retrospective file
-- Personal experience problem-statement
+- Personal experience problem-statements 
 - Useful resources and links
 
 ## Why This Matters for Our Research 🖇️
