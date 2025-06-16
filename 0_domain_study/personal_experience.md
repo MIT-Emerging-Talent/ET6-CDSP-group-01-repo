@@ -1,6 +1,8 @@
 # 🗣️ Personal experience statement
 
-## **Samuel Gai** 🇸🇸
+## **South Sudan**
+
+( _Samuel Gai_ )
 
 As a South Sudanese citizen from Jonglei State, I have witnessed firsthand the
  devastating impact of recurring floods on our communities. Every year, heavy
@@ -29,7 +31,9 @@ This is where **data science can play a transformative role**. By leveraging
     effectively, data-driven approaches could help reduce displacement,
      save lives, and protect livelihoods in South Sudan’s most vulnerable regions.
 
-## **Rama Arafeh** 🇸🇾
+## Syria
+
+( _Rama Arafeh_ )
 
 As someone originally from Syria and now living in a village in Lebanon, I find
  it very difficult that drought is affecting both places—my hometown in Syria
@@ -43,3 +47,19 @@ As someone originally from Syria and now living in a village in Lebanon, I find
          impact of the drought every single day. Water has become something we
           worry about constantly—something that used to be a part of life, but
            now feels like it’s slipping out of reach.
+
+## **Sudan**
+
+( _Hiba, Nada, Amin_)
+
+In Sudan, we have the longest river in the world _the River Nile_ the majority
+of the agricultural land was around the Nile and they use it as the main source
+of irrigation. However, because of the increase of population in the capital
+city _Khartoum_ the government started building new houses in drainage channels.
+Every Autumn, alot of people get affected by the flood and heavy rains and
+they loose their homes and belongings, they are often evacuated to areas with
+poor sanitation.
+
+The government usually don't do anything to prevention actions all their efforts
+are reactive they keep on getting "_surprised_" by the floods. Here's where the
+use of data science to predict patterns comes into play.
