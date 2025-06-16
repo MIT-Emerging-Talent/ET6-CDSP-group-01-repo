@@ -16,7 +16,7 @@ food insecurity, which in turn drives up prices, deepens poverty, and stresses
 health systems. Displacement into urban areas contributes to overcrowded
 informal settlements where sanitation is poor, disease spreads, and
 infrastructure collapses.This results in negative feedback loops—where one
-disruption leads others.
+disruption leads others.  
 
 For example:
 
