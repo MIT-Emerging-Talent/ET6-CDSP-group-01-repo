@@ -1,9 +1,41 @@
-# 🌍 Climate Displacement
+# Climate
+
+Climate refers to  long-term weather patterns in a region recorded over a long
+ period of time.
+
+## 🌡️ Climate Change Overview
+
+Climate change is the long-term alteration of Earth’s climate due to both
+ natural variability and more critically, human activity—especially since the
+  Industrial Revolution. The primary driver of today’s rapid change is the
+   buildup of greenhouse gases (GHGs) like carbon dioxide (CO₂), methane (CH₄),
+    and nitrous oxide (N₂O) from:
+
+- Burning of fossil fuels (coal, oil, gas)
+- Deforestation and land use change
+- Industrial emissions and agriculture
+
+### 🔥 Key Climate Trends Globally
+
+1. **Rising global temperatures** — 2023 was one of the hottest years on record
+2. **Melting ice caps & glaciers** — causing sea level rise
+3. **More extreme weather** — heatwaves, hurricanes, droughts, and floods
+ increasing in severity and frequency
+4. **Shifting rainfall patterns** — leading to unpredictable farming conditions
+5. **Ocean warming & acidification** — harming marine life and ecosystems
+
+These changes are intensifying vulnerability and exposure, especially in
+ low-income countries like South Sudan, Sudan, Syria etc,  which contribute
+  least to climate change but suffer the most.
+
+---
+
+## 🌍 Climate Displacement
 
 **Climate Displacement** refers to the movement of people due to sudden or
  gradual environmental changes caused by climate change.
 
-## 🚨 Problem statement
+### 🚨 Problem statement
 
 Climate change is increasingly forcing millions of people worldwide to flee
 their homes due to rising sea levels, extreme weather events, prolonged
@@ -46,6 +78,14 @@ leading to unprecedented humanitarian crises, economic losses, and
 geopolitical instability. The world must act now to protect the most
 vulnerable and build adaptive solutions before entire regions become uninhabitable.
 
+---
+
+## ❓ **Question of focus**
+
+*In what ways can data-driven approaches address flood-related climate*
+*displacement in South Sudan, and what policy measures are needed to support*
+*these solutions?*
+
 ### 🌊 **Impacts of Flooding in South Sudan**
 
 - 👥 **People**: Hundreds of thousands displaced, with homes destroyed and
@@ -57,57 +97,6 @@ vulnerable and build adaptive solutions before entire regions become uninhabitab
 for thousands.
 - 🛣️ **Infrastructure**: Roads, clinics, and markets submerged, blocking aid and
 isolating communities.
-
-## 🗣️ Personal experience statement
-
-🇸🇸 **Samuel Gai's Personal Experience Statement**:  
-As a South Sudanese citizen from Jonglei State, I have witnessed firsthand the
-devastating impact of recurring floods on our communities. Every year, heavy
-rainfall and overflow from rivers like the Nile and its tributaries submerge
-homes, destroy crops, drown livestock, and displace thousands of people. The
-2020 and 2021 floods were particularly catastrophic, leaving many families
-homeless, increasing food insecurity, and spreading waterborne diseases
-like cholera. Despite these recurring disasters, there is still a lack of
-effective early warning systems, proper flood monitoring, and
-data-driven strategies to mitigate the damage.
-
-The general problem is that **South Sudan lacks sufficient infrastructure,
-technology, and predictive systems** to effectively anticipate and manage
-floods. Traditional response mechanisms are often reactive rather than
-proactive, resulting in unnecessary loss of lives and livelihoods.
-Additionally, climate change is worsening rainfall patterns, making floods
-more frequent and severe. Without reliable flood prediction models,
-real-time monitoring systems, and data-informed disaster management
-policies, vulnerable communities in Jonglei and other flood-prone
-regions remain at high risk.
-
-This is where **data science can play a transformative role**. By leveraging
-satellite imagery, hydrological data, machine learning models, and historical
-flood patterns, we can develop early warning systems, improve flood
-forecasting, and optimize emergency response efforts. If implemented
-effectively, data-driven approaches could help reduce displacement, save
-lives, and protect livelihoods in South Sudan’s most vulnerable regions.
-
-🇸🇾 **Rama's Personal Experience Statement**:  
-As someone originally from Syria and now
-living in a village in Lebanon, I find it very difficult that drought is
-affecting both places—my hometown in Syria and the village where I live now.
-This past winter, there was barely any precipitation, and now, in the
-summer, there’s almost no water to rely on. Natural sources like springs
-and wells have dried up, and we’ve been forced to start buying water just
-to cover basic needs like drinking and washing. It’s not easy,
-especially with the financial pressure it adds. Around us, some families
-have already been displaced because they can no longer survive without
-water. Even though we haven’t had to leave, we feel the impact of the
-drought every single day. Water has become something we worry about
-constantly—something that used to be a part of life, but now feels
-like it’s slipping out of reach.
-
-### ❓ **Question of focus**
-
-*In what ways can data-driven approaches address flood-related climate*
-*displacement in South Sudan, and what policy measures are needed to support*
-*these solutions?*
 
 ### 📚 **Research Articles on the question**
 
