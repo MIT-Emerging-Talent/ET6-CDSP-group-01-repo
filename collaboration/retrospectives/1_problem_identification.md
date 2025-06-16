@@ -10,7 +10,7 @@
 ### ⚠️ What parts of your plan did not work out?
 
 - Not all of us in the group were available to continue with the deliverables
-- as originally planned.
+as originally planned.
 
 ### ➕ Did you need to add things that weren't in your strategy?
 
