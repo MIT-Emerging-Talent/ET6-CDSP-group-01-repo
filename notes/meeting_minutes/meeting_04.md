@@ -22,10 +22,11 @@
 
 ### 🚀 Next steps
 
-1. *by Monday*:
+ *by Monday*:
 
 - Continue the search for flood related datasets and will be discussed in slack.
 - Exploring more research objectives.
 
-2. Rama will represent the team in the milestone checkin on Tuesday.
-3. Schedule another meeting on Tuesday or Wednesday to allocate tasks
+- Rama will represent the team in the milestone checkin on Tuesday.
+
+- Schedule another meeting on Tuesday or Wednesday to allocate tasks
