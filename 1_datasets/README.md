@@ -24,8 +24,6 @@ libraries such as `rasterio` and `pandas`, then saved in `.csv` format.
 - Possible inaccuracies due to the reliance on satellite and sparse ground
   station data across Africa.
 - Errors may have occurred during the extraction process, affecting data quality.
-- Missing data from **2005 to 2014**, which makes historical flood cause analysis
-   limited.
 
 ---
 
@@ -74,6 +72,8 @@ collect the data from in the Google Earth Engine is Sentinel-1. The timeframe of
 
 - Lack of ground truth data may impact accuracy.
 - Flooded vegetated areas may be undetected by satellite, resulting in underestimation.
+- Missing data from **2005 to 2014**, which makes historical flood cause analysis
+   limited.
 
 ---
 
