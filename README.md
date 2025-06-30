@@ -16,7 +16,7 @@ We are a group of passionate data science enthusiasts who believe in the power
 - Climate change
 - Climate Injustice
 - Extreme Weather conditions predicition
-
+  
 ## About Our Project
 
 You can access more information about the process of choosing the question in the
