@@ -41,10 +41,10 @@ flood risks.__
 
 ### 🔬 Actionable Research Questions
 
-> *How has urban expansion over the past two decades influenced the frequency and
-> spatial extent of the flood events in Kampala and Addis Ababa?*
+> How has urban expansion over the past two decades influenced the frequency and
+> spatial extent of the flood events in Kampala and Addis Ababa?
 
-## 🧠 Our group understanding of the problem domain
+### 🧠 Our group understanding of the problem domain
 
 *Access our Group's detailed
 understanding
@@ -73,7 +73,8 @@ To get these insights we used data in `.csv` format and the data we couldn't
 find in a
 tabular form was __extracted__ from __satellite images__ in `.tif` format.
 
-*You can access the datasets used in the project in the [datasets](1_datasets/cleaned_datasets) file.*
+*You can access the datasets used
+in the project in the [datasets](1_datasets/cleaned_datasets) file.*
 
 ## How do we team up?🤝
 
@@ -96,4 +97,5 @@ We work together in the following ways:
 
 ### 🤝 Contributing
 
-We welcome contributions! Please see our guidelines for [contributing](CONTRIBUTING.md).
+We welcome contributions! Please see our guidelines
+for [contributing](CONTRIBUTING.md).
