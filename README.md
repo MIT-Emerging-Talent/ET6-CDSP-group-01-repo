@@ -10,12 +10,6 @@ We are a group of passionate data science enthusiasts who believe in the power
  of collaboration and shared learning. Our mission is to explore the vast world
   of data science using Python, while fostering a supportive community where
    everyone can grow and thrive.
-
-### Research Topics
-
-- Climate change
-- Climate Injustice
-- Extreme Weather conditions predicition
   
 ## About Our Project
 
@@ -41,8 +35,8 @@ flood risks.__
 
 ### 🔬 Actionable Research Questions
 
-> How has urban expansion over the past two decades influenced the frequency and
-> spatial extent of the flood events in Kampala and Addis Ababa?
+ __How has urban expansion over the past two decades influenced the frequency and
+ spatial extent of the flood events in Kampala and Addis Ababa?__
 
 ### 🧠 Our group understanding of the problem domain
 
@@ -71,16 +65,22 @@ and the availability of relevant flood data, makes them
 
 To get these insights we used data in `.csv` format and the data we couldn't
 find in a
-tabular form was __extracted__ from __satellite images__ in `.tif` format. The
-possible __flaws in our approach__ are. Inaccuracy of data due to the use of
+tabular form was __extracted__ from __satellite images__ in `.tif` format.
+
+📌 The
+possible __flaws in our approach__ are:
+
+- Inaccuracy of data due to the use of
 satellite data which depends on ground stations that are scarce in the east
-african region. Also there might be errors in the extraction of data from
+african region.
+- Also there might be errors in the extraction of data from
 satellite images.
 
-*You can access the datasets used
-in the project in the [datasets](1_datasets/cleaned_datasets) file.*
+>*You can access the datasets used
+in the project in the [datasets](1_datasets) file.*
 
-![flood](notes/images/flooding-volume.png)               ![displacement](notes/images/483863618_1049219297241153_2526242775605397869_n.jpg)
+![flood](notes/images/Location%20of%20flood%20displacement%20events%20in%20Africa%20(2018%20-%202023).jpg)
+               ![displacement](notes/images/photo_5988026941929801380_x.jpg)
 
 ## How do we team up?🤝
 
