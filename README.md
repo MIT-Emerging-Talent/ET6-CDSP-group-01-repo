@@ -71,7 +71,11 @@ and the availability of relevant flood data, makes them
 
 To get these insights we used data in `.csv` format and the data we couldn't
 find in a
-tabular form was __extracted__ from __satellite images__ in `.tif` format.
+tabular form was __extracted__ from __satellite images__ in `.tif` format. The
+possible __flaws in our approach__ are. Inaccuracy of data due to the use of
+satellite data which depends on ground stations that are scarce in the east
+african region. Also there might be errors in the extraction of data from
+satellite images.
 
 *You can access the datasets used
 in the project in the [datasets](1_datasets/cleaned_datasets) file.*
