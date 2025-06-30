@@ -80,9 +80,7 @@ satellite images.
 *You can access the datasets used
 in the project in the [datasets](1_datasets/cleaned_datasets) file.*
 
-<img src="notes/images/flooding-volume.png" alt="rainfall" width="200"/>
-
-<img src="notes/images/483863618_1049219297241153_2526242775605397869_n.jpg" alt="rainfall" width="200"/>
+<img src="notes/images/flooding-volume.png" alt="rainfall" width="300"/>     <img src="notes/images/483863618_1049219297241153_2526242775605397869_n.jpg" alt="rainfall" width="300"/>
 
 ## How do we team up?🤝
 
