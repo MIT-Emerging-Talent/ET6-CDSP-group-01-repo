@@ -2,7 +2,7 @@
 
 ## 🌧️ Rainfall_mm
 
-The rainfall dataset was initially downloaded from  
+The rainfall dataset was initially downloaded from
 [CHIRPS](https://data.chc.ucsb.edu/products/CHIRPS-2.0/) as
 [Africa monthly](https://data.chc.ucsb.edu/products/CHIRPS-2.0/africa_monthly/)
 rainfall in [.tiffs format](https://data.chc.ucsb.edu/products/CHIRPS-2.0/africa_monthly/tifs/)
