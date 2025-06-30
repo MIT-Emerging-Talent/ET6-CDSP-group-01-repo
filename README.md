@@ -10,13 +10,7 @@ We are a group of passionate data science enthusiasts who believe in the power
  of collaboration and shared learning. Our mission is to explore the vast world
   of data science using Python, while fostering a supportive community where
    everyone can grow and thrive.
-
-### Research Topics
-
-- Climate Displacement
-- Climate Injustice
-- Extreme Weather conditions predicition
-
+  
 ## About Our Project
 
 You can access more information about the process of choosing the question in the
@@ -24,38 +18,27 @@ You can access more information about the process of choosing the question in th
 
 ### 🚀 Problem Statement
 
-Climate change is increasingly forcing millions of people worldwide to flee their
-homes due to rising sea levels, extreme weather events, prolonged droughts, and
-catastrophic flooding. Unlike traditional migration, climate displacement is
-often sudden, involuntary, and leaves affected populations with no safe return
-options. Without urgent intervention, the World Bank estimates that over 216
-million people could be displaced within their own countries by 2050 due to
-climate-related impacts, particularly in
-developing countries, which lack sufficient infrastructure, technology, and means.
-
-For example, in South Sudan, increasingly severe and frequent flooding, caused
-by heavy rainfall and overflow from rivers like the Nile and its tributaries,
-submerge homes, destroy crops, drown livestock, and displace thousands of people.
-Despite these recurring disasters, current disaster response mechanisms are
-largely reactive rather than proactive, due to the lack of sufficient infrastruc
-ture, technology, and predictive systems to effectively anticipate and mitigate
-flood damage.
+Urban flooding is becoming increasingly common in rapidly growing cities. As
+cities expand, natural land surfaces are replaced with buildings, roads,
+and other infrastructure. This change __reduces the land’s ability to
+absorb rainfall__, potentially leading to more severe and frequent floods.
+Despite these concerns, there is limited data-driven research quantifying the
+relationship between urbanization and flood extent in the __East African__ regions.
 
 This is where data science can play a transformative role. By leveraging
 satellite imagery, hydrological data, current and historical climate data, such
 as flood patterns, together with machine learning models, we can develop early
 warning systems, improve flood forecasting, and optimize emergency response
-efforts. Accordingly, this project seeks to investigate how data-driven
-approaches could help reduce displacement, save lives, and protect livelihoods
-in vulnerable regions of South Sudan, as well as other countries.
+efforts.The goal is __to support better urban planning and disaster risk management
+by providing a clearer understanding of how unchecked urban growth may influence
+flood risks.__
 
 ### 🔬 Actionable Research Questions
 
-__In what ways can data-driven approaches address flood-related climate
- displacement
-in South Sudan, and what policy measures are needed to support these solutions?__
+ __How has urban expansion over the past two decades influenced the frequency and
+ spatial extent of the flood events in Kampala and Addis Ababa?__
 
-## Our group understanding of the problem domain
+### 🧠 Our group understanding of the problem domain
 
 *Access our Group's detailed
 understanding
@@ -63,6 +46,41 @@ of the domain in
 the [background review](0_domain_study/background_review.md) file and
 [Summary of Understanding](0_domain_study/summary_of_our_understanding.md)
 file.*
+
+### 🧩 How we chose to model the domain?
+
+We wanted to understand how urban growth  in East Africa might be making flooding
+in the River Nile worse over time. We chose __Addis Ababa__ and __Kampala__
+because they are among the fastest growing cities in East Africa.Their
+vulnerability to seasonal flooding, combined with increasing population density
+and the availability of relevant flood data, makes them
+ ideal case studies for analyzing how urban growth may contribute to flood risk.
+ To do this, we looked at three main things:
+
+- How much of the city area is covered by buildings and roads (urban area) each year.
+
+- How much land was flooded during heavy rains in the same time periods.
+  
+- The amount of rainfall in each year
+
+To get these insights we used data in `.csv` format and the data we couldn't
+find in a
+tabular form was __extracted__ from __satellite images__ in `.tif` format.
+
+📌 The
+possible __flaws in our approach__ are:
+
+- Inaccuracy of data due to the use of
+satellite data which depends on ground stations that are scarce in the east
+african region.
+- Also there might be errors in the extraction of data from
+satellite images.
+
+>*You can access the datasets used
+in the project in the [datasets](1_datasets) file.*
+
+![flood](notes/images/Location%20of%20flood%20displacement%20events%20in%20Africa%20(2018%20-%202023).jpg)
+               ![displacement](notes/images/photo_5988026941929801380_x.jpg)
 
 ## How do we team up?🤝
 
@@ -85,5 +103,5 @@ We work together in the following ways:
 
 ### 🤝 Contributing
 
-We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for
-guidelines.
+We welcome contributions! Please see our guidelines
+for [contributing](CONTRIBUTING.md).
