@@ -11,6 +11,8 @@ We are a group of passionate data science enthusiasts who believe in the power
   of data science using Python, while fostering a supportive community where
    everyone can grow and thrive.
 
+---
+
 ## About Our Project
 
 You can access more information about the process of choosing the question in the
@@ -33,13 +35,7 @@ efforts.The goal is __to support better urban planning and disaster risk managem
 by providing a clearer understanding of how unchecked urban growth may influence
 flood risks.__
 
-### 🔬 Actionable Research Questions
-
- __How has urban expansion over the past two decades influenced the frequency and
- spatial extent of the flood events in Kampala and Addis Ababa, considering
-  rainfall variability during the same period?__
-
-### 🧠 Our group understanding of the problem domain
+### 🧠 Our Group's Understanding Of The Problem Domain
 
 *Access our Group's detailed
 understanding
@@ -48,7 +44,15 @@ the [background review](0_domain_study/background_review.md) file and
 [Summary of Understanding](0_domain_study/summary_of_our_understanding.md)
 file.*
 
-### 🧩 A Non Technical Explantion on How we chose to model the domain?
+---
+
+## 🔬 Actionable Research Questions
+
+ *__How has urban expansion over the past two decades influenced the frequency and*
+ *spatial extent of the flood events in Kampala and Addis Ababa, considering*
+  *rainfall variability during the same period?__*
+
+### 🧩 A Non Technical Explanation On How We Chose To Model The Domain?
 
 We wanted to understand how the growth of cities like __Kampala and Addis Ababa__
  over the last two decades might be making floods worse, especially when
@@ -85,7 +89,7 @@ This allowed us to look for patterns like:
 
 3. Do both factors (rain + buildings) work together to cause floods?
 
-### ⚠️ Possible Flaws in our Approach
+### ⚠️ Possible Flaws In Our Approach
 
 🔁 __Different data time ranges__  
 
@@ -107,11 +111,16 @@ Floods often happen due to intense rainfall in a few days or weeks. Our yearly
 
 Some flood maps from satellites may miss small or fast-dissipating flood events
  due to cloud cover, revisit gaps, or low image quality.
+
 >*You can access the datasets used
 in the project in the [datasets](1_datasets) file.*
 
+---
+
 ![flood](notes/images/Location%20of%20flood%20displacement%20events%20in%20Africa%20(2018%20-%202023).jpg)
                ![displacement](notes/images/photo_5988026941929801380_x.jpg)
+
+---
 
 ## How do we team up?🤝
 
