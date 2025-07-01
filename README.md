@@ -48,9 +48,9 @@ file.*
 
 ## 🔬 Actionable Research Questions
 
- *__How has urban expansion over the past two decades influenced the frequency and*
- *spatial extent of the flood events in Kampala and Addis Ababa, considering*
-  *rainfall variability during the same period?__*
+ __*How has urban expansion over the past two decades influenced the frequency and*__
+ __*spatial extent of the flood events in Kampala and Addis Ababa, considering*__
+  __*rainfall variability during the same period?*__
 
 ### 🧩 A Non Technical Explanation On How We Chose To Model The Domain?
 
