@@ -1,130 +1,116 @@
-# Climate
+# 📚 Background Review
 
-Climate refers to  long-term weather patterns in a region recorded over a long
- period of time.
+## 🌍 Introduction
 
-## 🌡️ Climate Change Overview
+Urban flooding has emerged as one of the most pressing challenges facing
+ rapidly expanding cities in developing regions. In sub-Saharan Africa, where
+  urbanization is accelerating at unprecedented rates, the risks associated
+   with unplanned growth and climate variability are becoming increasingly
+    visible. Cities such as **Kampala** (Uganda) and **Addis Ababa** (Ethiopia)
+     are emblematic of this trend, experiencing both high population growth and
+      recurring flood events.
 
-Climate change is the long-term alteration of Earth’s climate due to both
- natural variability and more critically, human activity—especially since the
-  Industrial Revolution. The primary driver of today’s rapid change is the
-   buildup of greenhouse gases (GHGs) like carbon dioxide (CO₂), methane (CH₄),
-    and nitrous oxide (N₂O) from:
-
-- Burning of fossil fuels (coal, oil, gas)
-- Deforestation and land use change
-- Industrial emissions and agriculture
-
-### 🔥 Key Climate Trends Globally
-
-1. **Rising global temperatures** — 2023 was one of the hottest years on record
-2. **Melting ice caps & glaciers** — causing sea level rise
-3. **More extreme weather** — heatwaves, hurricanes, droughts, and floods
- increasing in severity and frequency
-4. **Shifting rainfall patterns** — leading to unpredictable farming conditions
-5. **Ocean warming & acidification** — harming marine life and ecosystems
-
-These changes are intensifying vulnerability and exposure, especially in
- low-income countries like South Sudan, Sudan, Syria etc,  which contribute
-  least to climate change but suffer the most.
+The focus of this study is to investigate the relationship between
+ **urban expansion**, **rainfall variability**, and **flood extent** in these
+  two East African cities. Understanding this relationship is crucial for
+   informed urban planning, disaster preparedness, and climate resilience strategies.
 
 ---
 
-## 🌍 Climate Displacement
+### 🏙️ Urbanization in East Africa
 
-**Climate Displacement** refers to the movement of people due to sudden or
- gradual environmental changes caused by climate change.
+According to the UN-Habitat and World Bank reports, African cities are among
+ the fastest growing globally, but much of this growth is **informal** and
+  **infrastructure-poor**. The expansion of impervious surfaces (e.g., roads,
+   rooftops, pavements) drastically reduces the capacity of land to absorb
+    rainwater. As a result, runoff increases, and drainage systems, if present
+     are quickly overwhelmed.
+This process has led to a growing number of **urban flash floods**, often
+ affecting the poorest and most vulnerable populations.
 
-### 🚨 Problem statement
+In cities like Kampala and Addis Ababa:
 
-Climate change is increasingly forcing millions of people worldwide to flee
-their homes due to rising sea levels, extreme weather events, prolonged
-droughts, deforestation and catastrophic flooding. Unlike traditional
-migration, climate displacement is often sudden, involuntary, and leaves
-affected populations with no safe return options. Without urgent
-intervention, the World Bank estimates that over 216 million people could
-be displaced within their own countries by 2050 due to climate-related impacts.
-
-### 🔑 **Key Challenges of Climate Displacement**
-
-- ⚠️ **Lack of Early Warning & Preparedness** – *Many vulnerable regions lack
-predictive systems to anticipate disasters, leaving communities with little
-time to evacuate or adapt*.
-- ⚖️ **Inadequate Legal Protections** – *Climate migrants often fall into legal gaps,*
-*as international refugee laws do not recognize them as formal refugees*.
-- 💸 **Loss of Livelihoods & Increased Poverty** – *Displacement disrupts*
-*agriculture, fishing, and other climate-dependent livelihoods, pushing*
-*populations into extreme poverty*.
-- ⚔️ **Conflict & Social Instability** – *Mass migration strains resources in host*
-*communities, increasing tensions over land, water, and food security*.
-- 🏙️ **Urban Overcrowding & Slum Expansion** – *Many displaced people move to cities*,
-*overwhelming infrastructure and creating informal settlements with poor*
-*sanitation and healthcare*.
-- ♀️ **Gender & Social Inequities** – *Women, children, and marginalized groups face*
-*higher risks of exploitation, trafficking, and reduced access to aid.*
-
-### 📊 **The Role of Data Science & Policy Interventions**
-
-To address this crisis, governments and humanitarian organizations must
-leverage data-driven solutions, including:
-Predictive modeling using climate data, satellite imagery, and AI to forecast
-displacement risks.
-Real-time monitoring systems to track migration patterns and optimize aid distribution.
-Policy frameworks that recognize climate migrants and support planned
-relocation or resilience programs.
-
-Without coordinated global action, climate displacement will escalate,
-leading to unprecedented humanitarian crises, economic losses, and
-geopolitical instability. The world must act now to protect the most
-vulnerable and build adaptive solutions before entire regions become uninhabitable.
+- Urban land cover has increased dramatically since the early 2000s.
+- New developments often outpace investments in drainage, green infrastructure,
+ or zoning enforcement.
+- Built-up areas tend to emerge in flood-prone zones, amplifying exposure and risk.
 
 ---
 
-## ❓ **Question of focus**
+### 🌧️ Rainfall Variability and Climate Change
 
-*In what ways can data-driven approaches address flood-related climate*
-*displacement in South Sudan, and what policy measures are needed to support*
-*these solutions?*
+Climate change is intensifying the hydrological cycle. Even though East Africa
+ does not face the same scale of sea-level rise or cyclonic storms as some
+  coastal regions, it does experience **more frequent and intense rainfall
+   events**, especially during the long rains (March–May) and short rains (October–December).
 
-### 🌊 **Impacts of Flooding in South Sudan**
+This unpredictability makes traditional infrastructure planning ineffective.
+ Additionally, extreme rainfall concentrated over a few hours or days can
+  overwhelm even well-designed drainage systems, particularly when combined
+   with poor solid waste management (which clogs drains).
 
-- 👥 **People**: Hundreds of thousands displaced, with homes destroyed and
- lives lost.
-- 🏥 **Health**: Spikes in waterborne diseases (cholera, malaria), and rising malnutrition.
-- 🌾 **Livelihoods**: Crops and livestock wiped out, food prices rising,
- incomes lost.
-- 📚 **Education**: Schools flooded or turned into shelters, disrupting learning
-for thousands.
-- 🛣️ **Infrastructure**: Roads, clinics, and markets submerged, blocking aid and
-isolating communities.
+---
 
-### 📚 **Research Articles on the question**
+### 🌊 Urban Flooding and Its Impacts
 
-- 🌊 [Practical-flood-riskreduction-strategies-in-South-Sudan.pdf](https://www.researchgate.net/profile/Tim-Frazier/publication/362457592_Practical_flood_risk_reduction_strategies_in_South_Sudan/links/6306930461e4553b95364c84/Practical-flood-risk-reduction-strategies-in-South-Sudan.pdf)
-- 🤖 [Flood classification and prediction in South Sudan using artificial
- intelligence models under a changing climate - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1110016824003272)
-- 📊 [Analysis of spatio-temporal precipitation and temperature variability and
- trend over Sudd-Wetland, Republic of South Sudan - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2405880724000062)
-- 📰 [As flooding becomes a yearly disaster in South Sudan, thousands survive
- on the edge of a canal | AP News](https://apnews.com/article/south-sudan-flooding-dde718e68427f931d08eb0fb35f3927d)
-- 🛑 [A drowning town: are Bentiu’s dykes high enough to save it from disaster?
- | Global development | The Guardian](https://www.theguardian.com/global-development/article/2024/aug/13/south-sudan-bentiu-floods-dykes-refugee-camp-internally-displaced-people-climate-lake-victoria-united-nations?utm_source=chatgpt.com)
+The consequences of urban flooding extend beyond physical damage to homes and
+ infrastructure. Floods in urban centers lead to:
 
-### 🔍 **Research gaps on the focused topic**
+- Health crises (e.g., waterborne diseases like cholera).
+- Disruption of transportation and commerce.
+- School closures and reduced access to services.
+- Displacement of populations, sometimes permanently.
+- Increased poverty and loss of livelihoods.
 
-Highlighting gaps is important because it reveals areas that need further
-exploration, encourages innovative thinking, and ensures that overlooked
-issues, communities, or data are brought into focus. Some of the gaps include:
+Yet, despite the growing prevalence of these events, **data-driven studies**
+ **quantifying the link between urban growth and flooding in East African**
+  **cities are limited**.
 
-1. 🌐 **Flood forecasts are not tied to displacement risks**  
-2. ⚠️ **No early warning for displacements**  
-3. 🏘️ **There’s a lack of resettlement planning**  
-4. 📉 **There is limited research on long-term flood management strategies, such
- as**:  
-   - 🌱 *Sustainable land and water management*  
-   - 🏗️ *Climate-resilient infrastructure*  
-5. ⚔️ **There is limited exploration of how floods interact with ongoing
- conflict**:  
-   - 💧 *How flooding may fuel tensions over resources*  
-   - 🏚️ *How displacement from floods overlaps with displacement from
- violence*  
+---
+
+### 📡 The Role of Data Science and Earth Observation
+
+Recent advances in **remote sensing**, **geospatial analysis**, and
+ **machine learning** offer powerful tools to bridge this knowledge gap. For instance:
+
+- Urban extent can be extracted from satellite platforms like MODIS,
+ Sentinel-2, and Dynamic World.
+- Rainfall data is available at high spatial resolution from sources like
+ CHIRPS and GPM.
+- Flood events can be detected through SAR imagery (e.g., Sentinel-1) and
+ optical satellites, even during cloud cover.
+
+By integrating these datasets and analyzing them over time, researchers can
+ uncover patterns that were previously hidden, such as:
+
+- Correlations between urban growth rates and flood frequency/intensity.
+- How rainfall variability modifies flood risk.
+- Whether both factors are acting independently or synergistically.
+
+---
+
+### 🎯 Research Question
+
+> **How has urban expansion over the past two decades influenced the frequency**
+ **and spatial extent of flood events in Kampala and Addis Ababa, considering**
+ **rainfall variability during the same period?**
+
+---
+
+### 🔍 Research Gaps
+
+This research aims to address key gaps:
+
+- **Temporal gaps**: Limited longitudinal studies tracking urban growth and
+ flooding side-by-side.
+- **Spatial gaps**: Few comparative analyses across cities in the East African context.
+- **Methodological gaps**: Limited integration of remote sensing, hydrology,
+ and data science in local flood research.
+- **Policy gaps**: A lack of actionable, localized insights to support urban
+ planners in flood-prone cities.
+
+### Research Articles
+
+- [Urbanization and flood risk in Addis Ababa](https://www.sciencedirect.com/science/article/pii/S1877705816319609?via%3Dihub)
+- [Review of Urban Flood Mapping using Machine Learning and other approaches](https://www.mdpi.com/2072-4292/17/3/524)
+- [Urban flood mapping](https://arxiv.org/abs/2411.04153)

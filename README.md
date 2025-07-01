@@ -10,7 +10,7 @@ We are a group of passionate data science enthusiasts who believe in the power
  of collaboration and shared learning. Our mission is to explore the vast world
   of data science using Python, while fostering a supportive community where
    everyone can grow and thrive.
-  
+
 ## About Our Project
 
 You can access more information about the process of choosing the question in the
@@ -36,7 +36,8 @@ flood risks.__
 ### 🔬 Actionable Research Questions
 
  __How has urban expansion over the past two decades influenced the frequency and
- spatial extent of the flood events in Kampala and Addis Ababa?__
+ spatial extent of the flood events in Kampala and Addis Ababa, considering
+  rainfall variability during the same period?__
 
 ### 🧠 Our group understanding of the problem domain
 
@@ -47,35 +48,65 @@ the [background review](0_domain_study/background_review.md) file and
 [Summary of Understanding](0_domain_study/summary_of_our_understanding.md)
 file.*
 
-### 🧩 How we chose to model the domain?
+### 🧩 A Non Technical Explantion on How we chose to model the domain?
 
-We wanted to understand how urban growth  in East Africa might be making flooding
-in the River Nile worse over time. We chose __Addis Ababa__ and __Kampala__
-because they are among the fastest growing cities in East Africa.Their
-vulnerability to seasonal flooding, combined with increasing population density
-and the availability of relevant flood data, makes them
- ideal case studies for analyzing how urban growth may contribute to flood risk.
- To do this, we looked at three main things:
+We wanted to understand how the growth of cities like __Kampala and Addis Ababa__
+ over the last two decades might be making floods worse, especially when
+  combined with changing rainfall patterns. Our goal was to use real satellite
+   data to explore whether there's a __connection between urban growth, rainfall,
+    and flood events__, and what that might mean for future city planning.
+To do this, we looked at three main types of data:
 
-- How much of the city area is covered by buildings and roads (urban area) each year.
+- 🏘️ __Urban Extent__ - *How much of each city is covered by buildings or built-up*
+ *land each year*.
 
-- How much land was flooded during heavy rains in the same time periods.
-  
-- The amount of rainfall in each year
+- 🌧️ __Rainfall__ – *How much rain fell each month, using high-resolution*
+ *satellite rainfall maps*.
 
-To get these insights we used data in `.csv` format and the data we couldn't
-find in a
-tabular form was __extracted__ from __satellite images__ in `.tif` format.
+- 🌊 __Flood Extent__ – *How much of each city was covered by floodwaters each month*,
+ *based on flood mapping from satellite images*.
 
-📌 The
-possible __flaws in our approach__ are:
+Since these data sets all come in __different formats and time scales__ (some are
+ monthly, others are yearly), we standardized everything to an __annual scale__,
+  so we could compare them year by year. These are the
+   [cleaning scripts](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/tree/main/2_data_preparation/cleaning_scripts)🧹
+    we used for the datasets. We combined the three datasets into one big table
+     where each row represents a year for a city, with columns for:
 
-- Inaccuracy of data due to the use of
-satellite data which depends on ground stations that are scarce in the east
-african region.
-- Also there might be errors in the extraction of data from
-satellite images.
+- 🌧️ Total rainfall in that year
+- 🏙️ Amount of urbanized land
+- 🌊 How much flooding occurred
 
+This allowed us to look for patterns like:
+
+1. Do floods get worse in years when urban areas grow fast?
+
+2. Is there more flooding in years with heavier rainfall?
+
+3. Do both factors (rain + buildings) work together to cause floods?
+
+### ⚠️ Possible Flaws in our Approach
+
+🔁 __Different data time ranges__  
+
+Rainfall and urban extent data go back to 2005, but flood data only starts
+ in 2015. So we can only model flooding trends from 2015–2025, not the full
+  2005–2025 range.
+
+🏗️ __Urban area does not capture infrastructure quality__  
+
+Urban extent only tells us how much of the land is built-up, but it doesn’t
+ tell us if there are proper drainage systems, green spaces, or flood defenses.
+
+📅 __Annual summaries may hide short-term extremes__  
+
+Floods often happen due to intense rainfall in a few days or weeks. Our yearly
+ totals may smooth out those spikes.
+
+🌥️ __Flood data is sometimes incomplete__  
+
+Some flood maps from satellites may miss small or fast-dissipating flood events
+ due to cloud cover, revisit gaps, or low image quality.
 >*You can access the datasets used
 in the project in the [datasets](1_datasets) file.*
 
