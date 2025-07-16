@@ -7,14 +7,14 @@
 This notebook cleans the raw data of monthly flood water extent by;
 
 - Removing unnecessary columns.
-- Adding in values of `'0'` to show unavailable data for the missing years `(2005-2014)`.
 - Sorting the rows so each row has coordinates for each city of the same year.
 - Re-arranging the variables in the order year, city,
 - Adding in the column of year.
 - Summing the total flood that occurs in each year.
+- Keeping only rows for the years `2015-2020`.
 
 This notebook creates and saves the cleaned
- [flood water extent](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/1_datasets/cleaned_data/Cleaned_Flood_Water_Extent_Kampala_Addis_2005_2025_km2.csv)
+ [flood water extent](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/1_datasets/cleaned_data/yearly_flood_water_extent_kampala_addis_2015_2020.csv)
   data.
 
 ---
@@ -28,9 +28,10 @@ It does so by;
 - Removing unnecessary columns.
 - Sorting the rows so each row has coordinates for each city of the same year.
 - Re-arranging the variables in the order `year, city, urban are per square kilometer`
+- Keeping only rows of years `2015-2020`
 
 This notebook creates and saves the cleaned
- [urban extent](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/1_datasets/cleaned_data/Cleaned_UrbanExtent_Kampala_Addis.csv)
+ [urban extent](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/1_datasets/cleaned_data/urbanextent_kampala_addis_cleaned.csv)
   data
 
 ---
@@ -42,32 +43,24 @@ This notebook cleans the raw rainfall data by;
 - Removing unnecessary columns.
 - Finding the total sum of the rainfall that has occurred in each year.
 - Reordering the column names in the order `year, city, rainfall-mm`
-- Sorting the rows so each row has coordinates for each city of the same year.
+- Sorting the rows in ascending order so each row has coordinates for each city
+ of the same year.
 
 This notebook creates and saves the cleaned
- [rainfall](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/1_datasets/cleaned_data/Cleaned_Rainfall_Data.csv)
+ [rainfall](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/1_datasets/cleaned_data/cleaned_rainfalldata.csv)
   data.
 
 ---
 
-### 🔗 `mergealldatasets.ipynb`
+### 🔗 `merge_all_datasets.ipynb`
 
-This notebook merges all the three datasets and also removes the co-ordinates
- of the years `2001-2004`, which were caused by the data from urban extent data,
-  that start from the years `2001-2025`, but our research question only needs
-   data of the past two decades.
+This notebook merges all the three cleaned datasets.
 
-It also creates split files to separate the merged data containing urban extent
- data, sourced from `MODIS` and another containing urban extent data, sourced from
-  Dynamic World. To create the split data, the second last cell is tweaked
-   according to the specific year period of each data source.
+For the variables with same names across all the datasets, this notebook
+ ensures all the names are the same (in small letters) across all three first,
+  before merging.
 
-Also, for the variables with same names across all the datasets, this notebook
- ensures all the names are the same across all three first, before merging.
-
-This notebook creates and saves the cleaned [all merged data](https://docs.google.com/spreadsheets/d/1Jal9jb5ZwUZrGC0pOXKH_b52nxxBCSW1otFb7CsmuiQ/edit?gid=213002949#gid=213002949),
- [split merged data__containing urban extent data sourced from MODIS](https://docs.google.com/spreadsheets/d/14mdDBBipwwS_PRjRFkh66fF7CWUMjT77l7UoccDpoHY/edit?gid=573789412#gid=573789412),
-  and [split merged data__containing urban extent data sourced from dynamic world](https://docs.google.com/spreadsheets/d/1X-p4Vj-doKN9FZ1191ipbiX-xl7Hgb2tsL1c_x8Lw1w/edit?gid=434186483#gid=434186483)
+This notebook creates and saves the cleaned [all merged data](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/1_datasets/cleaned_data/merged_flood_rainfall_urban_extent.csv).
 
 ---
 
@@ -100,4 +93,4 @@ It extracts the raw rainfall data by;
 
 - Converting the extracted rainfall records to a dataframe and then saving them.
 
-This notebook creates and saves the raw [rainfall data](https://docs.google.com/spreadsheets/d/1QJptwghbwVuZ4T3hd9GcSUXGe_1U8bK_bMgYSoyGAJQ/edit?gid=621316614#gid=621316614)
+This notebook creates and saves the raw [rainfall data](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/1_datasets/raw_data/Rainfall_Data.csv)
