@@ -55,7 +55,7 @@ file.*
 ### 🧩 A Non Technical Explanation On How We Chose To Model The Domain?
 
 We wanted to understand how the growth of cities like __Kampala and Addis Ababa__
- over the last two decades might be making floods worse, especially when
+ might be making floods worse over time, especially when
   combined with changing rainfall patterns. Our goal was to use real satellite
    data to explore whether there's a __connection between urban growth, rainfall,
     and flood events__, and what that might mean for future city planning.
