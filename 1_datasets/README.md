@@ -80,10 +80,7 @@ collect the data from in the Google Earth Engine is Sentinel-1. The timeframe of
 ## 🧩 Merged (Master) Dataset
 
 This dataset combines the three individual datasets using **Jupyter Notebook**
-scripts and Python libraries such as `pandas`. Two additional versions were created:
-
-- One where urban extent data is exclusively from **MODIS** (2005–2020)
-- Another from **Dynamic World** (2021–2025)
+scripts and Python libraries such as `pandas`.
 
 ### 📁 Structure of the Merged Dataset
 

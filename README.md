@@ -48,14 +48,14 @@ file.*
 
 ## 🔬 Actionable Research Questions
 
- __*How has urban expansion over the past two decades influenced the frequency and*__
+ __*How has urban expansion influenced the frequency and*__
  __*spatial extent of the flood events in Kampala and Addis Ababa, considering*__
-  __*rainfall variability during the same period?*__
+  __*rainfall variability?*__
 
 ### 🧩 A Non Technical Explanation On How We Chose To Model The Domain?
 
 We wanted to understand how the growth of cities like __Kampala and Addis Ababa__
- over the last two decades might be making floods worse, especially when
+ might be making floods worse over time, especially when
   combined with changing rainfall patterns. Our goal was to use real satellite
    data to explore whether there's a __connection between urban growth, rainfall,
     and flood events__, and what that might mean for future city planning.
@@ -93,9 +93,12 @@ This allowed us to look for patterns like:
 
 🔁 __Different data time ranges__  
 
-Rainfall and urban extent data go back to 2005, but flood data only starts
- in 2015. So we can only model flooding trends from 2015–2025, not the full
-  2005–2025 range.
+Rainfall and urban extent data go back to 2005 , but flood data only starts
+ in 2015. Also, the urban extent data was sourced from two sources with the
+  sourced data from Dynamic World that starts from `2021-2025` not being
+   consistent with that sourced from `MODIS`(`2001-2020`).  So, we can only
+    model trends from `2015–2020`, making us deal with limited data than we
+     would've needed.
 
 🏗️ __Urban area does not capture infrastructure quality__  
 
