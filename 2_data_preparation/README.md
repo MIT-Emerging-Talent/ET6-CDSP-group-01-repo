@@ -113,6 +113,33 @@ This notebook creates and saves the cleaned
 
 ### 🌧️ `rainfall_data_cleaning.ipynb`
 
+This notebook processes the raw Rainfall dataset in the following ways:
+
+1. **Import Library**
+
+   - `pandas` is imported for data manipulation.
+
+2. **Load Dataset**
+
+   - The CSV file is read directly from the GitHub repository using `pd.read_csv()`.
+
+3. **Convert Dates**
+
+   - The `"Date"` column is converted from string to a datetime format using `pd.to_datetime()`.
+
+4. **Extract Year**
+
+   - A new `"Year"` column is created by extracting the year component from the `"Date"`.
+
+5. **Aggregate Rainfall Annually**
+
+   - Data is grouped by `"City"` and `"Year"`, then the total annual rainfall
+   (`"Rainfall_mm"`) is summed using `groupby()` and `sum()`.
+
+6. **Export Result**
+
+   - The resulting annual rainfall dataset is saved locally as `yearly_rainfall.csv`.
+
 This notebook creates and saves the cleaned
  [rainfall](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/1_datasets/clean_data/yearly_rainfall.csv)
   data.
@@ -121,7 +148,39 @@ This notebook creates and saves the cleaned
 
 ### 🔗 `merged_data.ipynb`
 
-This notebook merges all the three cleaned datasets.
+This notebook merges all the three cleaned datasets, in the following steps:
+
+1. **Load Data**
+
+   - Reads in three CSV files (`rainfall.csv`, `flood.csv`, `urban.csv`) into
+   separate DataFrames.
+
+2. **Synthetic Data Labeling**
+
+   - Adds a boolean column `is_synthetic_rainfall` to the rainfall DataFrame
+   and sets all values to `False`.
+
+3. **Standardize Column Names**
+
+   - Renames columns in `flood` and `urban` to ensure consistency across datasets:
+
+     - `"year"` → `"Year"`
+     - `"city"` or `"Cities"` → `"City"`
+     - `"is_synthetic"` → respective `is_synthetic_flood` or `is_synthetic_urban`
+
+4. **Merge Datasets**
+
+   - Merges all three datasets (`rainfall`, `flood`, `urban`) on the common
+   columns `["City", "Year"]`.
+
+5. **Reorder Columns**
+
+   - Swaps the position of `Total Flood Extent (km^2)` and `is_synthetic_flood`
+   for improved readability.
+
+6. **Export Final Merged Dataset**
+
+   - Saves the combined dataset as `merged_data.csv`.
 
 This notebook creates and saves the cleaned [all merged data](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/1_datasets/clean_data/merged_data_new2.csv).
 

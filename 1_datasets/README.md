@@ -39,7 +39,7 @@ The data was saved into Google Drive, in a `.csv` format. The source used to
 collect the data from in the Google Earth Engine is Sentinel-1. The timeframe of
  the raw data collected is from 2015-2025.
 
-As for the cleaned data, the timeframe of `2005-2014` is of synthetic data.
+As for the cleaned data, the timeframe of `2005-2014` is of **synthetic data**.
 
 ### 📁 Structure of the Flood Water Extent Dataset
 
@@ -53,8 +53,6 @@ As for the cleaned data, the timeframe of `2005-2014` is of synthetic data.
 
 - Lack of ground truth data may impact accuracy.
 - Flooded vegetated areas may be undetected by satellite, resulting in underestimation.
-- Missing data from **2005 to 2014**, which makes historical flood cause analysis
-   limited.
 
 ---
 
