@@ -125,6 +125,97 @@ in the project in the [datasets](1_datasets) file.*
 
 ---
 
+### 🧩 A non-technical explanation of our findings, including our levels of
+
+We wanted to gain insights on how rainfall levels and urban growth affect the flood
+extent in cities, in our case __Kampala and Addis Ababa__, in order to help
+decision makers and people predicting flooding severity and take appropriate measures.
+Our objective was describing such interactions via mathematical models (descriptive)
+and various parameters.
+
+To do this, we looked into our cleaned  data of annual:
+
+- 🏘️ __Urban Extent__
+
+- 🌧️ __Rainfall__
+
+- 🌊 __Flood Extent__
+
+We processed the cleaned data in order to analyze it, and make sure that each of
+the aforementioned datasets cover the same period of time.
+
+Here initially we faced two main problems:
+
+- We noticed that part of the urban extent values looked odd and extremely small
+(almost zero) which we realized is due to the data being collected from two
+different sources.
+This contradicts our knowledge of the two cities.
+![flood](notes/images/UrbanExtent.png)
+- Another problem was that we realized that our dataframe (where all the datasets
+overlap) is quite short (2015-2020), which would limit our analysis.
+
+To overcome these problems and to get further insights we thought of using two approaches:
+
+1. Generate synthetic data, in order to increase the period we are analyzing.
+
+2. As one of the main impacts of floods is on people and their livelyhoods, we tried
+to find population-related data and information from various sources
+(reports, news, infographics, governmental and non-governmental plans), as we couldn't
+find datasets regarding the matter.
+
+### Findings
+
+Our analysis explored the dynamics between urbanization, rainfall, and flooding
+in Addis Ababa and Kampala. The key findings are:
+
+__1. 📶 Significant Urban Growth:__
+
+Both cities experienced significant and steady urban expansion over the observed
+period.
+
+__2. 🔀 Complex Correlation:__
+
+At first glance, it seemed that more city growth led to more flooding. However,
+when we looked at each city separately, the relationship wasn’t so straightforward—
+sometimes more urban expansiont meant less flooding. This suggests
+that other factors, such as topography, infrastructure, or specific rainfall events,
+play a crucial role and that city-level analysis is essential.
+
+__3. 📈 Time Series Trends:__
+
+Urbany expansion has been steadily increasing. Rainfall, on the other hand,
+stayed fairly consistent. We noticed that flooding changed more unpredictably,
+suggesting that it’s not only rainfall that affects floods
+
+### Uncertainties and possible sources of errors
+
+While our analysis provides insights, there are several limitations and sources of
+uncertainty that should be kept in mind, such as:
+
+🔁 __Data from Different Sources__
+
+Some of the urban extent data came from different sources, which don't necessarily
+match.
+
+📍 __Missing Factors__
+
+We were unable to include other important factors like population growth,
+land use planning, and drainage infrastructure, due to lack of consistent data.
+These likely play a role in how floods impact each city.
+
+🌍 __Local Differences__
+
+The studied cities have different topographies, development patterns,
+and infrastructure quality. This makes it harder to generalize findings.
+
+🧬 __Use of Synthetic Data__
+
+To extend the analysis period, we generated synthetic data. While this can help
+identify patterns, it also introduces uncertainty because the generated data may
+not fully reflect real-world changes.
+
+---
+
 ## How do we team up?🤝
 
 We work together in the following ways:
