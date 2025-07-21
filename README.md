@@ -161,7 +161,8 @@ To overcome these problems and to get further insights we thought of using two a
 2. As one of the main impacts of floods is on people and their livelyhoods, we tried
 to find population-related data and information from various sources
 (reports, news, infographics, governmental and non-governmental plans), as we couldn't
-find datasets regarding the matter.
+find datasets regarding the matter. Still, we couldn't find enough information
+to include in our analysis.
 
 ### Findings
 
