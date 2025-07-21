@@ -29,27 +29,6 @@ libraries such as `rasterio` and `pandas`, then saved in `.csv` format.
 
 ## 🌆 Urban Extent
 
-The data was collected by pasting [code](https://code.earthengine.google.com/788e28603790ffed166540e8730c39ad?noload=1),
- which was AI-generated, into the Google Earth Engine [code editor](https://code.earthengine.google.com/).
- The data was saved into Google Drive, in a `.csv` format.
- The sources used include:
-
-- **MODIS** (2005–2020)  
-- **Dynamic World** (2021–2025)
-
-### 📁 Structure of the Urban Extent Dataset
-
-- **Raw Data**:  
-  `system:index`, `city`, `source`, `urban_area_sqkm`, `year`, `.geo`
-
-- **Cleaned Data**:  
-  `year`, `city`, `urban_area_sqkm`
-
-### ⚠️ Possible Limitations of the Urban Extent Dataset
-
-- The use of two different sources may introduce inconsistency across years.
-- Satellite data is prone to inaccuracies, especially in the presence of cloud cover.
-
 ---
 
 ## 🌊 Flood Water Extent
@@ -84,4 +63,4 @@ scripts and Python libraries such as `pandas`.
 
 ### 📁 Structure of the Merged Dataset
 
-`year`, `city`, `flood_water_extent_(km^2)`, `rainfall_mm`, `urban_area_sqkm`
+`City`, `Year`, `Rainfall_mm`, `Total_Flood_Extent_km2`, `Urban_Area`
