@@ -125,7 +125,7 @@ in the project in the [datasets](1_datasets) file.*
 
 ---
 
-### 🧩 A non-technical explanation of our findings, including our levels of
+### 🧩 A non-technical explanation of our findings
 
 We wanted to gain insights on how rainfall levels and urban growth affect the flood
 extent in cities, in our case __Kampala and Addis Ababa__, in order to help
@@ -150,7 +150,9 @@ Here initially we faced two main problems:
 (almost zero) which we realized is due to the data being collected from two
 different sources.
 This contradicts our knowledge of the two cities.
+
 ![flood](notes/images/UrbanExtent.png)
+
 - Another problem was that we realized that our dataframe (where all the datasets
 overlap) is quite short (2015-2020), which would limit our analysis.
 
