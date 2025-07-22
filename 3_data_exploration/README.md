@@ -20,7 +20,7 @@ foundation of our climate and flood risk analysis:
 
 ## Notebooks
 
-### 1. rainfall_data_eda.ipynb
+### 1. `rainfall_data_eda.ipynb`
 
 #### 1.1 Dataset Overview
 
@@ -99,5 +99,5 @@ foundation of our climate and flood risk analysis:
 
 | Dataset       | Records | Missing Values | Duplicates | Outliers       |
 |---------------|---------|----------------|------------|----------------|
-| Rainfall      | 490     | 0              | 0          | 33 (6.73%)     |
-| Flood Extent  | 250     | 0              | 0          | 1 (0.40%)      |
+| [Rainfall](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/1_datasets/raw_data/Rainfall_Data.csv)      | 490     | 0              | 0          | 33 (6.73%)     |
+| [Flood Extent](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/1_datasets/raw_data/Monthly_Flood_Water_Extent_Kampala_Addis_2015_2025_km2.csv)  | 250     | 0              | 0          | 1 (0.40%)      |
