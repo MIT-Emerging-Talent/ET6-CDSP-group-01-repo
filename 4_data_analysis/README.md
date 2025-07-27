@@ -10,7 +10,7 @@ housing the notebooks and technical guides that decode the urban flood paradox.
 
 ## Summary of Scripts & Notebooks
 
-### [`Comparative_Analysis_Urbanization_and_Flooding_Addis_Kampala.ipynb`](./Comparative_Analysis_Urbanization_and_Flooding_Addis_Kampala.ipynb)   — Uncovering the Urban Flood Paradox
+### [`Comparative_Analysis_Urbanization_and_Flooding_Addis_Kampala.ipynb`](./Comparative_Analysis_Urbanization_and_Flooding_Addis_Kampala.ipynb)
 
 This notebook is where we first confront the puzzle at the heart of our data.
 Through a series of visualizations and feature engineering, it reveals why the
@@ -28,7 +28,7 @@ relationship between urbanization and flooding is not as simple as it seems.
    growth (`Urban_Growth_Rate`) is a more potent indicator of immediate flood
    risk than the absolute size of the city.
 
-### [`statistical_modelling.ipynb`](./statistical_modelling.ipynb)   — Quantifying the Rainfall Amplifier Effect
+### [`statistical_modelling.ipynb`](./statistical_modelling.ipynb)
 
 Here, we move beyond visual trends to build statistical proof for our central
 hypothesis. This notebook documents the process of modeling flood extent to
