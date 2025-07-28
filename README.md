@@ -2,7 +2,8 @@
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD045 -->
 <!-- markdownlint-disable MD013 -->
-<img src="notes/images/Urban Growth and Rising Waters.png" width="600" height="200">
+
+![banner](notes/images/Urban%20Growth%20and%20Rising%20Waters.png)
 
 ## __THE CURIOUS MINDS💡!__
 
@@ -130,7 +131,6 @@ in the project in the [`datasets`](1_datasets) file.*
 > You can see from the visual below how floods are effecting East African
 > communities and causing displacement
 ---
-<img src="notes/images/Location of flood displacement events in Africa (2018 - 2023).jpg" width="200" height="200">
 
 ![flood](notes/images/Location%20of%20flood%20displacement%20events%20in%20Africa%20(2018%20-%202023).jpg)
 
