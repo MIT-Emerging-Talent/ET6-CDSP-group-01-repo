@@ -1,11 +1,11 @@
-# Domain Research: Climate Displacement 🌍
+# Domain Research: Urban Expansion & Flooding 🌆🌊
 
-This domain study folder explores climate displacement caused by flooding
-in South Sudan.
-This folder brings together key insights, background information, and early
-brainstorming to help new readers quickly understand the scope of the issue,
-including how extreme flooding is forcing communities to relocate and the
-broader impacts on livelihoods, health, and infrastructure.
+This domain study folder explores the relationship between urban expansion and
+increased flooding risks. It brings together key insights, background
+information, and early brainstorming to help new readers quickly grasp the
+scope of the issue—specifically, to examine whether urban expansion has
+contributed to increased flood exposure and its effects on infrastructure and
+community well-being.
 
 ---
 
@@ -13,7 +13,6 @@ broader impacts on livelihoods, health, and infrastructure.
 
 - Brainstorming Summery
 - Background Review file containing literature review of the research
-- Retrospective file
 - Personal experience problem-statements
 - Useful resources and links
 
