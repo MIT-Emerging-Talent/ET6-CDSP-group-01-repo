@@ -1,5 +1,8 @@
 <!-- markdownlint-disable MD041 -->
- ![Banner](notes/images/Urban%20Growth%20and%20Rising%20Waters.png)
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD045 -->
+<!-- markdownlint-disable MD013 -->
+<img src="notes/images/Urban Growth and Rising Waters.png" width="600" height="200">
 
 ## __THE CURIOUS MINDS💡!__
 
@@ -127,6 +130,7 @@ in the project in the [`datasets`](1_datasets) file.*
 > You can see from the visual below how floods are effecting East African
 > communities and causing displacement
 ---
+<img src="notes/images/Location of flood displacement events in Africa (2018 - 2023).jpg" width="200" height="200">
 
 ![flood](notes/images/Location%20of%20flood%20displacement%20events%20in%20Africa%20(2018%20-%202023).jpg)
 
@@ -158,7 +162,7 @@ Here initially we faced two main problems:
 different sources.
 This contradicts our knowledge of the two cities.
 
-![flood](notes/images/UrbanExtent.png)
+![urban](notes/images/UrbanExtent.png)
 
 - Another problem was that we realized that our dataframe (where all the datasets
 overlap) is quite short (2015-2020), which would limit our analysis.
@@ -193,7 +197,7 @@ play a crucial role and that city-level analysis is essential.
 
 __3. 📈 Time Series Trends:__
 
-Urbany expansion has been steadily increasing. Rainfall, on the other hand,
+Urban expansion has been steadily increasing. Rainfall, on the other hand,
 stayed fairly consistent. We noticed that flooding changed more unpredictably,
 suggesting that it’s not only rainfall that affects floods
 
