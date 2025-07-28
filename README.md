@@ -1,22 +1,29 @@
-# __THE CURIOUS MINDS💡!__
+<!-- markdownlint-disable MD041 -->
+ ![Banner](notes/images/Urban%20Growth%20and%20Rising%20Waters.png)
+
+## __THE CURIOUS MINDS💡!__
 
 *Welcome to the Curious Minds' repository! We are thrilled to have you here.*
 
 Exploring Data Science with Python — Learning Together, Building Trust.
 
-## Who are we? 🌟
+## 🧭 Who are we?
 
-We are a group of passionate data science enthusiasts who believe in the power
- of collaboration and shared learning. Our mission is to explore the vast world
-  of data science using Python, while fostering a supportive community where
-   everyone can grow and thrive.
+We are a diverse team of aspiring data scientists brought together by a shared
+passion for solving real-world problems through data.
+Our project explores the relationship between urban growth and flood risk in East
+ African cities, where rapid development meets the challenges of climate change.
+By combining satellite imagery, rainfall data, and open-source tools, we aim to
+uncover patterns that can support smarter urban planning and resilience.
+Through this journey, we’re not just learning to code — we’re learning to think
+critically, collaborate effectively, and use data for impact.
 
 ---
 
 ## About Our Project
 
-You can access more information about the process of choosing the question in the
-[brainstorming](0_domain_study/brainstorming.md) file.
+>You can access more information about the process of choosing the question in the
+[`brainstorming.md`](0_domain_study/brainstorming.md) file.
 
 ### 🚀 Problem Statement
 
@@ -40,8 +47,8 @@ flood risks.__
 *Access our Group's detailed
 understanding
 of the domain in
-the [background review](0_domain_study/background_review.md) file and
-[Summary of Understanding](0_domain_study/summary_of_our_understanding.md)
+the [`background review.md`](0_domain_study/background_review.md) file and
+[`Summary of Understanding.md`](0_domain_study/summary_of_our_understanding.md)
 file.*
 
 ---
@@ -73,7 +80,7 @@ To do this, we looked at three main types of data:
 Since these data sets all come in __different formats and time scales__ (some are
  monthly, others are yearly), we standardized everything to an __annual scale__,
   so we could compare them year by year. These are the
-   [cleaning scripts](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/tree/main/2_data_preparation/cleaning_scripts)🧹
+   [`cleaning scripts`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/tree/main/2_data_preparation/cleaning_scripts)🧹
     we used for the datasets. We combined the three datasets into one big table
      where each row represents a year for a city, with columns for:
 
@@ -115,13 +122,13 @@ Floods often happen due to intense rainfall in a few days or weeks. Our yearly
 Some flood maps from satellites may miss small or fast-dissipating flood events
  due to cloud cover, revisit gaps, or low image quality.
 
->*You can access the datasets used
-in the project in the [datasets](1_datasets) file.*
-
+*You can access the datasets used
+in the project in the [`datasets`](1_datasets) file.*
+> You can see from the visual below how floods are effecting East African
+> communities and causing displacement
 ---
 
 ![flood](notes/images/Location%20of%20flood%20displacement%20events%20in%20Africa%20(2018%20-%202023).jpg)
-               ![displacement](notes/images/photo_5988026941929801380_x.jpg)
 
 ---
 
@@ -190,6 +197,9 @@ Urbany expansion has been steadily increasing. Rainfall, on the other hand,
 stayed fairly consistent. We noticed that flooding changed more unpredictably,
 suggesting that it’s not only rainfall that affects floods
 
+![kampala-findings](notes/images/Kampala-findings.png)
+![addis-findings](notes/images/AddisAbaba-findings.png)
+
 ### Uncertainties and possible sources of errors
 
 While our analysis provides insights, there are several limitations and sources of
@@ -223,11 +233,11 @@ not fully reflect real-world changes.
 
 We work together in the following ways:
 
-- [Our Norms](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/collaboration/README.md)
-- [Our Communication](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/collaboration/communication.md)
-- [Our Constraints](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/collaboration/constraints.md)
-- [Our Learning-goals](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/collaboration/learning_goals.md)
-- [Our retrospectives](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/tree/milestone_0_retrospective/collaboration/retrospectives)
+- [`Our Norms`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/collaboration/README.md)
+- [`Our Communication`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/collaboration/communication.md)
+- [`Our Constraints`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/collaboration/constraints.md)
+- [`Our Learning-goals`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/collaboration/learning_goals.md)
+- [`Our retrospectives`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/tree/milestone_0_retrospective/collaboration/retrospectives)
 
 ## Meet the amazing minds working on this project👩🏻‍🤝‍👨🏿
 
@@ -241,4 +251,4 @@ We work together in the following ways:
 ### 🤝 Contributing
 
 We welcome contributions! Please see our guidelines
-for [contributing](CONTRIBUTING.md).
+for [`contributing.md`](CONTRIBUTING.md).
