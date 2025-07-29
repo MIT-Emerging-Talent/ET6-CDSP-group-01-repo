@@ -9,14 +9,19 @@ in isolation.
 
 ## 🔄 System Thinking
 
-The displacement crisis is not a singular event but the outcome of a dynamic
-system. Flooding—exacerbated by climate change—displaces families, destroys
-homes, and interrupts food production. The loss of crops and livestock leads to
-food insecurity, which in turn drives up prices, deepens poverty, and stresses
-health systems. Displacement into urban areas contributes to overcrowded
-informal settlements where sanitation is poor, disease spreads, and
-infrastructure collapses.This results in negative feedback loops—where one
-disruption leads others.  
+**Urbanization** is not a standalone process but part of a dynamic system with
+far-reaching impacts. As cities expand, natural landscapes that once absorbed
+rainfall—such as wetlands, forests, and open soil—are replaced with impermeable
+surfaces like concrete and asphalt. This reduces the land’s ability to absorb
+water, increases surface runoff, and overwhelms drainage systems, making urban
+areas more vulnerable to flooding. These floods, intensified by climate change,
+can damage homes, disrupt transportation, and interrupt food production. The
+loss of crops and livestock contributes to food insecurity, which raises
+prices, deepens poverty, and strains health systems. Rapid and unplanned urban
+growth also leads to overcrowded settlements with inadequate infrastructure,
+poor sanitation, and increased risk of disease outbreaks. These interlinked
+challenges form negative feedback loops, where one issue triggers and amplifies
+others, creating a cycle of vulnerability within urban environments.
 
 For example:
 
