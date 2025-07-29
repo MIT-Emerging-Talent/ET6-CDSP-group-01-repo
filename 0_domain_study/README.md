@@ -1,10 +1,11 @@
 # Domain Research: Urban Expansion & Flooding 🌆🌊
 
-This domain study folder explores the relationship between urban expansion and
+This domain study folder explores the relationship between urban expansion,
+rainfall variability and
 increased flooding risks. It brings together key insights, background
 information, and early brainstorming to help new readers quickly grasp the
 scope of the issue—specifically, to examine whether urban expansion has
-contributed to increased flood exposure.
+contributed to increased floods.
 
 ---
 
