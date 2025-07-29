@@ -4,8 +4,7 @@ This domain study folder explores the relationship between urban expansion and
 increased flooding risks. It brings together key insights, background
 information, and early brainstorming to help new readers quickly grasp the
 scope of the issue—specifically, to examine whether urban expansion has
-contributed to increased flood exposure and its effects on infrastructure and
-community well-being.
+contributed to increased flood exposure.
 
 ---
 
