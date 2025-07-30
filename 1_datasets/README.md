@@ -29,6 +29,24 @@ libraries such as `rasterio` and `pandas`, then saved in `.csv` format.
 
 ## 🌆 Urban Extent
 
+The raw data was sourced from the [Global Human Settlement Layer](https://human-settlement.emergency.copernicus.eu/).
+ You can download the data by clicking on the `download GHSL data` which brings
+  you to this [page](https://human-settlement.emergency.copernicus.eu/download.php).
+   Here, you click on `GHS-UCDB`,and under`By Thematic Domain`, select GHSL.
+
+Given that the data obtained is global, values specific to Kampala and Addis
+ Ababa were filtered within excel and saved as the [raw data](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/1_datasets/raw_data/GHSL_excel.xlsx).
+
+### 📁 Structure of the Urban Extent Dataset
+
+- **Cleaned Data**:  
+`Cities`, `Year`, `Urban_Area`, `is_synthetic`
+
+### ⚠️ Possible Limitations of the Urban Extent Dataset
+
+- Struggles with small-scale urban features
+- Limited field validation in remote/conflict zones.
+
 ---
 
 ## 🌊 Flood Water Extent
