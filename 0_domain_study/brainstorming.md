@@ -27,6 +27,9 @@ To decide we followed two techiques __Convergent__ and __Divergent__ thinking.
 3. [In what ways can data-driven approaches address flood-related climate
  displacement
 in South Sudan, and what policy measures are needed to support these solutions?](https://docs.google.com/document/d/1c0_ZMGa67trNTmx_m-t3Uw6DQcK-8P9TT9M0GwAW8UE/edit?tab=t.0)
+4. [How has the expansion of urban areas between 2005 and 2025 affected the
+   frequency and intensity of flood events in Kampala and Addis Ababa, taking
+   into account variations in rainfall over the same period?](https://docs.google.com/document/d/1PoOWoRcKYYApncoitDqkvcZ_X67tnYV_ctbrAJfW7KQ/edit?tab=t.0)
 
 Lastly, We had a meeting and discussed the shortlised questions and decided on
 our final question.  
