@@ -136,100 +136,70 @@ in the project in the [`datasets`](1_datasets) file.*
 
 ---
 
-### 🧩 A non-technical explanation of our findings
+## 🧩 A non-technical explanation of our findings
 
-We wanted to gain insights on how rainfall levels and urban growth affect the flood
-extent in cities, in our case __Kampala and Addis Ababa__, in order to help
-decision makers and people predicting flooding severity and take appropriate measures.
-Our objective was describing such interactions via mathematical models (descriptive)
-and various parameters.
+Due to increased concrete, fewer trees, and faster runoff, it is simple to conclude that floods will worsen as cities grow. The information from Kampala and Addis Ababa, however, presents a more complicated picture.
 
-To do this, we looked into our cleaned  data of annual:
+### 🕵️Visual Evidence
 
-- 🏘️ __Urban Extent__
+- 📊 __Correlation Matrix plots__ show relationships between the variables both combined and when the cities are separate.
 
-- 🌧️ __Rainfall__
+*__Combined Correlation Matrix plot__*  
+![combined-boxplot](notes/images/combined%20matrixplot.png)
 
-- 🌊 __Flood Extent__
+*__Kampala Correlation Matrix plot__*  
+![kampala](notes/images/Kampala%20matrixplot.png)
 
-We processed the cleaned data in order to analyze it, and make sure that each of
-the aforementioned datasets cover the same period of time.
+*__Addiss Ababa Correlation Matrix plot__*  
+![addis ababa](notes/images/addis%20ababa%20matrixplot.png)
 
-Here initially we faced two main problems:
+- 📉 __Time Series Plots__ show the trends over the years for the variables.
 
-- We noticed that part of the urban extent values looked odd and extremely small
-(almost zero) which we realized is due to the data being collected from two
-different sources.
-This contradicts our knowledge of the two cities.
+![timeseries](notes/images/timeseries.png)
 
-![urban](notes/images/UrbanExtent.png)
+__Boxplots__ were used to compare the distributions of rainfall, flood extent, and urban area between the two cities. These visualizations made it easy to detect differences in medians, spreads, and outliers, offering a concise summary of how these metrics vary across contexts.  
 
-- Another problem was that we realized that our dataframe (where all the datasets
-overlap) is quite short (2015-2020), which would limit our analysis.
+![Boxplot](notes/images/Boxplot.png)
 
-To overcome these problems and to get further insights we thought of using two approaches:
+### Key Findings
 
-1. Generate synthetic data, in order to increase the period we are analyzing.
+1. 🔁 __The Paradox of Simpson: A Statistical Illusion__  
 
-2. As one of the main impacts of floods is on people and their livelyhoods, we tried
-to find population-related data and information from various sources
-(reports, news, infographics, governmental and non-governmental plans), as we couldn't
-find datasets regarding the matter. Still, we couldn't find enough information
-to include in our analysis.
+    - The increased urban area appears to be associated with increased flooding when we examined both cities together. However, if examined separately, each city had the opposite pattern: less flooding was frequently associated with development.  
 
-### Findings
+    > 📌 This contradiction is called *Simpson's Paradox*, and it reminds us how important it is to examine cities individually before generalizing.
 
-Our analysis explored the dynamics between urbanization, rainfall, and flooding
-in Addis Ababa and Kampala. The key findings are:
+2. 📈 __Size is not as important as Growth Rate__  
 
-__1. 📶 Significant Urban Growth:__
+    - According to our data, the entire urban area had a weaker correlation with short-term flood risk than the Urban Growth Rate, which means periods of higher growth rate experienced more short-term floods.
 
-Both cities experienced significant and steady urban expansion over the observed
-period.
+3. 🌧️ __Rainfall Impact__  
 
-__2. 🔀 Complex Correlation:__
+    - Rainfall varies yearly but does not show a direct linear relationship with flooding __(a low positive correlation in both__ __cities separately)__. This implies that flooding is influenced by other factors, such as urban infrastructure, topography, and land use — not just rainfall.
 
-At first glance, it seemed that more city growth led to more flooding. However,
-when we looked at each city separately, the relationship wasn’t so straightforward—
-sometimes more urban expansiont meant less flooding. This suggests
-that other factors, such as topography, infrastructure, or specific rainfall events,
-play a crucial role and that city-level analysis is essential.
+4. __Comparative Boxplot findings__  
 
-__3. 📈 Time Series Trends:__
+    - Kampala tends to receive marginally more rainfall on average than Addis, with both cities showing a similar spread but different extremes.
 
-Urban expansion has been steadily increasing. Rainfall, on the other hand,
-stayed fairly consistent. We noticed that flooding changed more unpredictably,
-suggesting that it’s not only rainfall that affects floods
+    - Kampala consistently experiences much larger flood extents, which might reflect differences in topography, urban planning, or drainage systems.
 
-![kampala-findings](notes/images/Kampala-findings.png)
-![addis-findings](notes/images/AddisAbaba-findings.png)
+    - Kampala's urban footprint appears substantially larger than Addis Ababa’s, which could influence its flood vulnerability and runoff dynamics.
 
-### Uncertainties and possible sources of errors
+### How Confident Are We?
 
-While our analysis provides insights, there are several limitations and sources of
-uncertainty that should be kept in mind, such as:
+✅ Our analyses were statistically significant and revealed consistent patterns separately.
 
-🔁 __Data from Different Sources__
+⚠️ However, we recognize limitations:
 
-Some of the urban extent data came from different sources, which don't necessarily
-match.
+- Flood extent data may miss small-scale floods.
+- Urban data doesn’t account for drainage infrastructure.
+- We didn’t include topography or land use detail, both important flood factors.
 
-📍 __Missing Factors__
+## 🤷So, Do Cities Make Floods Worse?
 
-We were unable to include other important factors like population growth,
-land use planning, and drainage infrastructure, due to lack of consistent data.
-These likely play a role in how floods impact each city.
+__Not always directly__, but when rainfall hits a fast-growing city, the flood risks can __intensify sharply__ unless that growth is matched by smart infrastructure planning.
 
-🌍 __Local Differences__
-
-The studied cities have different topographies, development patterns,
-and infrastructure quality. This makes it harder to generalize findings.
-
-🧬 __Use of Synthetic Data__
-
-To extend the analysis period, we generated synthetic data. While this can help
-identify patterns, it also introduces uncertainty because the generated data may
-not fully reflect real-world changes.
+> For the technical description of our analysis, you can find it in the [statistical_modelling_technical_description.md](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/4_data_analysis/statistical_modelling_technical_description.md) file.
 
 ---
 
