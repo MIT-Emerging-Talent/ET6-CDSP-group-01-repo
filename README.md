@@ -179,7 +179,7 @@ __Boxplots__ were used to compare the distributions of rainfall, flood extent, a
 
 4. __Comparative Boxplot findings__  
 
-    - Kampala tends to receive marginally more rainfall on average than Addis, with both cities showing a similar spread but different extremes.
+    - Kampala tends to receive marginally more rainfall on average than Addis Ababa, with both cities showing a similar spread but different extremes.
 
     - Kampala consistently experiences much larger flood extents, which might reflect differences in topography, urban planning, or drainage systems.
 
@@ -191,7 +191,9 @@ __Boxplots__ were used to compare the distributions of rainfall, flood extent, a
 
 ⚠️ However, we recognize limitations:
 
-- Flood extent data may miss small-scale floods.
+- 📅 __Annual summaries may hide short-term extremes__  
+*Floods often happen due to intense rainfall in a few days or weeks. Our* *yearly totals may smooth out those spikes*.
+
 - Urban data doesn’t account for drainage infrastructure.
 - We didn’t include topography or land use detail, both important flood factors.
 
