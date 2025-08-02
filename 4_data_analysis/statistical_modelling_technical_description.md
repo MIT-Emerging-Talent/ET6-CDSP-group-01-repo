@@ -16,7 +16,7 @@ accounting for influential factors such as **rainfall** and city-specific differ
 
 ## 2. Data Preparation and Preprocessing
 
-The dataset consists of **42 observations** (21 years × 2 cities) and includes
+The dataset consists of **42 observations** (20 years × 2 cities) and includes
 the following key variables:
 
 - `City`: Categorical variable (Addis Ababa, Kampala)

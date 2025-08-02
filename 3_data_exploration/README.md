@@ -20,7 +20,7 @@ foundation of our climate and flood risk analysis:
 
 ## Notebooks
 
-### 1. `rainfall_data_eda.ipynb`
+### 1. [`rainfall_data_eda.ipynb`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/3_data_exploration/rainfall_data_eda.ipynb)
 
 #### 1.1 Dataset Overview
 
@@ -58,7 +58,7 @@ foundation of our climate and flood risk analysis:
 
 ---
 
-### 2. `flood_data_eda.ipynb`
+### 2. [`flood_data_eda.ipynb`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/3_data_exploration/flood_data_eda.ipynb)
 
 #### 2.1 Dataset Overview
 

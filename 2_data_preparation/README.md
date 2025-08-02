@@ -2,12 +2,12 @@
 
 ## 📓 Jupyter Notebooks Used
 
-### 🌊 `flood_data_cleaning.ipynb`
+### 🌊 [`flood_data_cleaning.ipynb`](<https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/2_data_preparation/cleaning_scripts/flood_data_cleaning.ipynb>)
 
 This notebook cleans the raw data and generates synthetic data for any missing
  years. It aimed to extend an existing 10-year flood extent dataset (2015-2025)
-  by generating 10 years of synthetic data (2005-2014) for two cities,
-   Addis Ababa and Kampala.It does so in the following ways:
+  by generating 10 years of synthetic data (2005-2014) for two cities, Addis
+   Ababa and Kampala.It does so in the following ways:
 
 **Data Loading and Preparation**:  
 
@@ -74,7 +74,7 @@ This notebook creates and saves the cleaned
 
 ---
 
-### 🌆 `urban_data_cleaning.ipynb`
+### 🌆 [`urban_data_cleaning.ipynb`](<https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/2_data_preparation/cleaning_scripts/urban_data_cleaning.ipynb>)
 
 This notebook cleans the raw urban area data and generates synthetic data for
  the missing years in the following steps:
@@ -111,7 +111,7 @@ This notebook creates and saves the cleaned
 
 ---
 
-### 🌧️ `rainfall_data_cleaning.ipynb`
+### 🌧️ [`rainfall_data_cleaning.ipynb`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/2_data_preparation/cleaning_scripts/rainfall_data_cleaning.ipynb)
 
 This notebook processes the raw Rainfall dataset in the following ways:
 
@@ -146,7 +146,7 @@ This notebook creates and saves the cleaned
 
 ---
 
-### 🔗 `merged_data.ipynb`
+### 🔗 [`merged_data.ipynb`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/2_data_preparation/cleaning_scripts/merged_data.ipynb)
 
 This notebook merges all the three cleaned datasets, in the following steps:
 
@@ -186,7 +186,7 @@ This notebook creates and saves the cleaned [all merged data](https://github.com
 
 ---
 
-### 🌧️ `extract_chirps_rainfall_kampala_addis`
+### 🌧️ [`extract_chirps_rainfall_kampala_addis`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/2_data_preparation/cleaning_scripts/extract_chirps_rainfall_kampala_addis.ipynb)
 
 This notebook extracts raw monthly rainfall data for Kampala and Addis Ababa from
  Africa monthly rainfall data CHIRPS raster `(.tif)` files, using python
