@@ -46,4 +46,4 @@ Foster Interdisciplinary Work: Inspired by the data gaps, she will collaborate w
 
 >The personas are fictional characters, While their names and personal details are made up, their roles, capabilities, and constraints are based on a realistic understanding of the types of individuals who work in those positions. Example of researchers we think will be interested in our work, Assoc. Prof. [Frank Mugagga](https://www.linkedin.com/in/frank-mugagga-35b95964/) and [Dr. Admasu Tsegaye](https://www.linkedin.com/in/admasu-tsegaye-a51551241/?originalSubdomain=et)
 
-📍 in the attached [link](https://docs.google.com/document/d/1FEFdY2NoU7wTtd3qWjelyGFf5PzCl7hhauKRF9Uao_g/edit?usp=sharing) you can find the draft of the research paper we are working on.
+📍 in the attached [link](https://docs.google.com/document/d/1SO3opGka0IIqGg8_8CreLK9kGjlmSDVJhiIpYbrL-4I/edit?usp=sharing) you can find the draft of the research paper we are working on.
