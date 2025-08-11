@@ -97,9 +97,18 @@
 
 ✍️ **What have you learned?**  
 
+- I learned new things about scientific papers and how to publish them to the
+ needed audience.
+
 👍 **What went well?**  
 
+- The weekly meetings were very effective and productive, we were able to conduct
+ a lot of creative ideas
+
 🤷 **What could be improved?**  
+
+- Starting earlier with the deliverables so that we don't rush things in the last
+ minute.
 
 ---
 
