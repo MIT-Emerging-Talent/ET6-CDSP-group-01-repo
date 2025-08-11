@@ -2,7 +2,8 @@
 
 ## ⛔ Stop Doing
 
-- Doing the tasks on deadline day, we’ve got to find a way.
+- Waiting till deadline to finish off the tasks ie if the tasks are started early
+ as we always do, it's best to finish them as early as possible as well.
 
 ## ✅ Continue Doing
 
