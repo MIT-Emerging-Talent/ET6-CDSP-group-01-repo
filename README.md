@@ -72,13 +72,13 @@ We wanted to understand how the growth of cities like __Kampala and Addis Ababa_
     and flood events__, and what that might mean for future city planning.
 To do this, we looked at three main types of data:
 
-- 🏘️ __Urban Extent__ - *How much of each city is covered by buildings or built-up*
+- __Urban Extent__ - *How much of each city is covered by buildings or built-up*
  *land each year*.
 
-- 🌧️ __Rainfall__ – *How much rain fell each month, using high-resolution*
+- __Rainfall__ – *How much rain fell each month, using high-resolution*
  *satellite rainfall maps*.
 
-- 🌊 __Flood Extent__ – *How much of each city was covered by floodwaters each month*,
+- __Flood Extent__ – *How much of each city was covered by floodwaters each month*,
  *based on flood mapping from satellite images*.
 
 Since these data sets all come in __different formats and time scales__ (some are
@@ -88,9 +88,9 @@ Since these data sets all come in __different formats and time scales__ (some ar
     we used for the datasets. We combined the three datasets into one big table
      where each row represents a year for a city, with columns for:
 
-- 🌧️ Total rainfall in that year
-- 🏙️ Amount of urbanized land
-- 🌊 How much flooding occurred
+- Total rainfall in that year
+- Amount of urbanized land
+- How much flooding occurred
 
 This allowed us to look for patterns like:
 
@@ -146,11 +146,11 @@ and various parameters.
 
 To do this, we looked into our cleaned  data of annual:
 
-- 🏘️ __Urban Extent__
+- __Urban Extent__
 
-- 🌧️ __Rainfall__
+- __Rainfall__
 
-- 🌊 __Flood Extent__
+- __Flood Extent__
 
 We processed the cleaned data in order to analyze it, and make sure that each of
 the aforementioned datasets cover the same period of time.
@@ -200,9 +200,6 @@ __3. 📈 Time Series Trends:__
 Urban expansion has been steadily increasing. Rainfall, on the other hand,
 stayed fairly consistent. We noticed that flooding changed more unpredictably,
 suggesting that it’s not only rainfall that affects floods
-
-![kampala-findings](notes/images/Kampala-findings.png)
-![addis-findings](notes/images/AddisAbaba-findings.png)
 
 ### Uncertainties and possible sources of errors
 
