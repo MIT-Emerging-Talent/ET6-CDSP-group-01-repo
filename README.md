@@ -140,27 +140,6 @@ in the project in the [`datasets`](1_datasets) file.*
 
 Due to increased concrete, fewer trees, and faster runoff, it is simple to conclude that floods will worsen as cities grow. The information from Kampala and Addis Ababa, however, presents a more complicated picture.
 
-### 🕵️Visual Evidence
-
-- 📊 __Correlation Matrix plots__ show relationships between the variables both combined and when the cities are separate.
-
-*__Combined Correlation Matrix plot__*  
-![combined-boxplot](notes/images/combined%20matrixplot.png)
-
-*__Kampala Correlation Matrix plot__*  
-![kampala](notes/images/Kampala%20matrixplot.png)
-
-*__Addiss Ababa Correlation Matrix plot__*  
-![addis ababa](notes/images/addis%20ababa%20matrixplot.png)
-
-- 📉 __Time Series Plots__ show the trends over the years for the variables.
-
-![timeseries](notes/images/timeseries.png)
-
-__Boxplots__ were used to compare the distributions of rainfall, flood extent, and urban area between the two cities. These visualizations made it easy to detect differences in medians, spreads, and outliers, offering a concise summary of how these metrics vary across contexts.  
-
-![Boxplot](notes/images/Boxplot.png)
-
 ### Key Findings
 
 1. 🔁 __The Paradox of Simpson: A Statistical Illusion__  
@@ -201,7 +180,7 @@ __Boxplots__ were used to compare the distributions of rainfall, flood extent, a
 
 __Not always directly__, but when rainfall hits a fast-growing city, the flood risks can __intensify sharply__ unless that growth is matched by smart infrastructure planning.
 
-> For the technical description of our analysis, you can find it in the [statistical_modelling_technical_description.md](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/4_data_analysis/statistical_modelling_technical_description.md) file.
+> For the technical description of our analysis, you can find it in the [data analysis folder](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/tree/main/4_data_analysis).
 
 ---
 
