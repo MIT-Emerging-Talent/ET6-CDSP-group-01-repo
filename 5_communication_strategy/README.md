@@ -47,3 +47,25 @@ Foster Interdisciplinary Work: Inspired by the data gaps, she will collaborate w
 >The personas are fictional characters, While their names and personal details are made up, their roles, capabilities, and constraints are based on a realistic understanding of the types of individuals who work in those positions. Example of researchers we think will be interested in our work, [Dr. Frank Mugagga](https://www.linkedin.com/in/frank-mugagga-35b95964/) and [Dr. Admasu Tsegaye](https://www.linkedin.com/in/admasu-tsegaye-a51551241/?originalSubdomain=et)
 
 📍 in the attached [link](https://docs.google.com/document/d/1SO3opGka0IIqGg8_8CreLK9kGjlmSDVJhiIpYbrL-4I/edit?usp=sharing) you can find the draft of the research paper we are working on.
+
+### Secondary Target Audience
+
+The Humanitarian Coordinator  
+__Persona:__ NGO Practitioner  
+__Name:__ David Okello  
+__Role:__ Disaster Response and Resilience Lead, regional NGO (Uganda & Ethiopia)  
+__Age:__ 41  
+__Bio:__
+ With 15+ years in flood preparedness, WASH, and DRR, David coordinates programs across Uganda and Ethiopia, balancing rapid response with long-term resilience. Trusted in flood-prone communities and skilled in policy engagement, he has access to localized impact data and strong operational systems. While not a data analyst, he values clear, actionable evidence to target interventions, secure funding, and influence policy.
+
+__Capabilities:__
+ David combines deep local knowledge, established DRR and WASH frameworks, access to field data, and policy navigation skills with proven capacity to implement rapid, community-level interventions.  
+
+__Constraints & Our Solutions:__
+ He faces fragmented data, limited technical capacity, short funding cycles, and overly technical research outputs. We address this by providing harmonized datasets, ready-to-use maps and visuals, reusable data products, and operational recommendations aligned with his priorities.
+
+__Engagement Strategy:__
+ Send direct, personalized email briefs with key findings, visual summaries, and links to our GitHub repository.
+
+__Key Message & Outcome:__
+ Flood risk is shaped by urban growth, drainage, and settlement patterns , not rainfall alone. Our data complements his assessments, enabling better targeting, stronger proposals, and refined resilience strategies. Ideally, David integrates our outputs into planning, uses them in advocacy, shares ground-level data, and partners with us to co-create field-ready tools.
