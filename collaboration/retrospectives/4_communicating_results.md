@@ -13,7 +13,7 @@
 
 ## 🚀 Start Doing
 
-- Filling weekly group check-in forms, missed 2 so far.
+- Filling weekly group check-in forms early.
 
 ## 💡Lessons Learned
 
