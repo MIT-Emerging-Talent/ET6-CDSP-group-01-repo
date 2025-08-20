@@ -56,7 +56,7 @@
 
 ### Capabilities
 
-**Researchers**  
+**Researchers**:  
 
 - Open to collaborations and comparative urban studies
 - Regularly engage with peer-reviewed research
@@ -66,7 +66,7 @@
 - Experience working with satellite data, spatial analysis, and time-series trends
 - Familiarity with open-source platforms and reproducible research
 
-**Inter Governmental Authority on Development**  
+**Inter Governmental Authority on Development**:  
 
 - IGAD’s mission includes regional cooperation on environmental protection,
  climate resilience, and disaster risk reduction.
@@ -77,21 +77,21 @@
 
 ### Constraints
 
-**Researchers**  
+**Researchers**:  
 
 - Time constraints due to teaching and administrative responsibilities
 - Limited inter-institutional collaboration or data sharing, especially across
  African contexts
 - Funding or time limitations to explore under-documented regions
 
-**Inter Governmental Authority on Development**  
+**Inter Governmental Authority on Development**:  
 
 - Funding limitations
 - Responses to proposals may take weeks or even months
 
 ### How we intend to Reach Them
 
-**Researchers**  
+**Researchers**:  
 
 - Academic Publications: Target regional journals
 
@@ -102,7 +102,7 @@
  methodology, key findings, data limitations, and a call to action to encourage
  reuse and collaboration.
 
-**Inter Governmental Authority on Development**  
+**Inter Governmental Authority on Development**:  
 
 - Sending them a proposal through email with:  
 
@@ -114,7 +114,7 @@
 
 ### What We Want Them to Learn
 
-**Researchers** & **Inter Governmental Authority on Development**  
+**Researchers** & **Inter Governmental Authority on Development**:  
 
 - Open-source tools and datasets like CHIRPS rainfall can enable cost-effective
  local research
@@ -130,7 +130,7 @@
 
 ### How We Hope They Will Act
 
-**Researchers**  
+**Researchers**:  
 
 - Use our open-source datasets to **replicate, validate, or extend** our analysis.
 - **Contribute new data**, such as ground-truth flood observations,
@@ -140,7 +140,7 @@
 - Publish further studies or tools that can inform policy and planning in
  data-scarce urban regions.
 
-**Inter Governmental Authority on Development**  
+**Inter Governmental Authority on Development**:  
 
 - Support regional data-sharing between countries.
 - Fund or facilitate pilot studies in vulnerable urban areas.
