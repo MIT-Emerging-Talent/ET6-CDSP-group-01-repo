@@ -105,11 +105,7 @@ This allowed us to look for patterns like:
 🔁 __Different data time ranges__  
 
 Rainfall and urban extent data go back to 2005 , but flood data only starts
- in 2015. Also, the urban extent data was sourced from two sources with the
-  sourced data from Dynamic World that starts from `2021-2025` not being
-   consistent with that sourced from `MODIS`(`2001-2020`).  So, we can only
-    model trends from `2015–2020`, making us deal with limited data than we
-     would've needed.
+ in 2015.
 
 🏗️ __Urban area does not capture infrastructure quality__  
 
@@ -128,7 +124,7 @@ Some flood maps from satellites may miss small or fast-dissipating flood events
 
 *You can access the datasets used
 in the project in the [`datasets`](1_datasets) file.*
-> You can see from the visual below how floods are effecting East African
+> You can see from the visual below how floods are effecting Nile Basin
 > communities and causing displacement
 ---
 
