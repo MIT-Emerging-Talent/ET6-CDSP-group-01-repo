@@ -1,71 +1,163 @@
-<!-- markdownlint-disable MD013 -->
 # Communication Strategy
 
-## Primary Target Audience
+## Audience Description
 
-__Persona:__ The Academic Researcher  
-__Name:__ Dr. Nkechi Adebayo  
-__Role:__ Post-Doctoral Fellow in Geospatial Science and Climate Adaptation  
-__Age:__ 32  
-__Bio:__ Dr. Adebayo is an ambitious early-career researcher based at a leading Ethiopian university. Her work focuses on using remote sensing and machine learning to understand climate change impacts on urban environments. She is passionate about producing high-impact research that is relevant to her region's challenges. She is a digital native, highly active on academic social networks, and a strong believer in open-source science.
+- Our main target audience is researchers and academics who study urban studies,
+ environmental science, hydrology, geography, and development policy, especially
+  those who focus on Uganda and Ethiopia.
+- The secondary target audience we would like to reach is Intergovernmental
+ Authority on Development([IGAD](https://igad.int/)).
 
-### Her Capabilities (Our Opportunities)
+### Research Personas
 
-Dr. Adebayo represents the skilled, next-generation researcher we want to engage.
+[Assoc. Prof. Frank Mugagga](https://www.linkedin.com/in/frank-mugagga-35b95964/):
 
-__Technical Expertise:__ She is fluent in Python and R, an expert in handling satellite imagery (like Landsat and Sentinel), and comfortable with advanced statistical and machine learning models. She will understand and appreciate the technical rigor of our work, including the synthetic data generation.  
-__Familiarity with Open Science:__ Our GitHub repository is her natural environment. She knows how to fork a repo and assess the quality of a project based on its documentation and code structure.  
-__Driven by Publication:__ Her career progression depends on publishing novel research in reputable journals. She is actively looking for new datasets, methods, and research questions that can lead to a high-impact paper.
+- Experienced Lecturer with a demonstrated history of working in the higher
+ education industry. Skilled in Research Design, Academic Writing, Management,
+  Geoinformatics, and University Teaching. Strong education professional with a
+   Doctor of Philosophy - PhD focused in Environmental Geography from Nelson
+    Mandela Metropolitan University.
 
-### Her Constraints (Our Solutions)
+[Dr. Admasu Tsegaye](https://www.linkedin.com/in/admasu-tsegaye-a51551241/?originalSubdomain=et):
 
-Her primary challenges are precisely what our project aims to alleviate.
+- Professor Admasu Tsegaye is a highly experienced, well-rounded, visionary,
+ result-oriented, and committed professional and leader with great leadership,
+ management, teamwork, research, consultancy, and diplomacy skills. He teaches
+ courses to undergraduate and postgraduate students, supervises several PhD and
+ MSc students, and serves as a PhD and MSc examiner in Ethiopian universities
+ and abroad in areas of production ecology, agricultural sciences, and natural
+ resource management. He has also undertaken research, consulting, and capacity
+ building on sustainable agriculture, food security, natural resources, and
+ biodiversity management. He has authored or co-authored over 50 journal
+ articles in a wide range of distinguished international journals and has
+ written a book, research manuals, and book chapters. In addition to his duties
+ as a teacher and researcher over the past 25 years, he has held a variety of
+ academic positions at the universities in Hawassa and Addis Ababa. These
+ included the presidents of Addis Ababa and Hawassa Universities, as well as
+ vice presidents for academic affairs, administration, and development at
+ Hawassa University. He headed the reform initiatives that have helped
+ transform the two universities into the top research universities in Africa.
+ He held a number of positions in higher education and research abroad. The
+ Director of the Consortium of African US-Educators, the Global Vice President
+ of Sun Moon University in South Korea, the Country Representative of Plant
+ Resources of Tropical Africa (PROTA), the Project Leader, and the Country
+ Representative of Co-Innovation for Quality in the Agri-Food Chain in Africa.
+ In addition to the prestigious USA Fulbright African Research Scholar Award at
+ Oklahoma State University for the 2011–2012 academic years, he has also
+ received the Southern Nations, Nationalities, and People's Regional State's
+ Excellence and Distinguished Leadership Award and the African Higher Education
+ Leadership Award. He founded the Center for Sustainable Agriculture and
+ Environment and serves as its senior advisor. He was designated Ambassador of
+ Ethiopia to Indonesia and accredited to Singapore, Malaysia, Cambodia,
+ Pakistan, the Maldives, and ASEAN. He brought to his ambassadorial assignment
+ important knowledge and experiences accumulated from a successful career in
+ academia and research. He is the chair and member of several governing boards
+ in Ethiopia and has played a key role in the success of the organizations.
 
-__Funding and Time Limitations:__ As a post-doc, she lacks the large grants needed for foundational data collection (e.g., commissioning new satellite imagery or conducting large-scale ground surveys). She needs projects that can be built upon, not started from scratch.
+### Capabilities
 
-### Our Engagement Strategy
+**Researchers**  
 
-__How We Will Reach Her:__
+- Open to collaborations and comparative urban studies
+- Regularly engage with peer-reviewed research
+- Strong interest in practical case studies relevant to the local or regional context
+- Strong technical and analytical skills
+- Access to modeling tools and statistical methods
+- Experience working with satellite data, spatial analysis, and time-series trends
+- Familiarity with open-source platforms and reproducible research
 
-__Academic Networks:__ We will share our findings and link to the repository in relevant journals( __Meteorology Hydrology and Water Management, International Journal of Disaster Risk Science and Journal of Coastal and Riverine Flood Risk__) and academic conferences.
+**Inter Governmental Authority on Development**  
 
-### What We Want Her to Learn
+- IGAD’s mission includes regional cooperation on environmental protection,
+ climate resilience, and disaster risk reduction.
+- IGAD Climate Prediction and Applications Centre (ICPAC) works on climate risk
+ and early warning systems, including flood forecasting.
+- IGAD Disaster Risk Management Programme focuses on building resilience to
+ natural hazards.
 
-__The Complexity of the Issue:__ She will appreciate our finding that urban growth alone is an incomplete explanation. Our model, which shows the complex interplay between urban extent, precipitation, and flood outcomes, will give her a more nuanced understanding of the problem.
+### Constraints
 
-__Collaboration:__ She will see the "Limitations" section of our work not as a weakness, but as an open invitation—a map of the existing data gaps (infrastructure, population vulnerability) that she and others can help fill.
+**Researchers**  
 
-### How We Hope She Will Act (Our Ideal Outcome)
+- Time constraints due to teaching and administrative responsibilities
+- Limited inter-institutional collaboration or data sharing, especially across
+ African contexts
+- Funding or time limitations to explore under-documented regions
 
-Our goal is to turn Dr. Adebayo from a passive reader into an active collaborator.
+**Inter Governmental Authority on Development**  
 
-__Extend and Innovate:__ She will build upon our work by adding new variables to the model. She could integrate layers for soil type, elevation, or the location of informal settlements to see how they influence flood risk, publishing a novel study in the process.
+- Funding limitations
+- Responses to proposals may take weeks or even months
 
-__Contribute Back:__ As a believer in open science, she will submit her improvements—whether it's refined code, new data layers, or bug fixes—back to our original repository as a pull request, strengthening the tool for the entire community.
-Foster Interdisciplinary Work: Inspired by the data gaps, she will collaborate with colleagues in sociology or public health to integrate vulnerability data, leading to a more holistic understanding of flood impact on human populations.
+### How we intend to Reach Them
 
->The personas are fictional characters, While their names and personal details are made up, their roles, capabilities, and constraints are based on a realistic understanding of the types of individuals who work in those positions. Example of researchers we think will be interested in our work, [Dr. Frank Mugagga](https://www.linkedin.com/in/frank-mugagga-35b95964/) and [Dr. Admasu Tsegaye](https://www.linkedin.com/in/admasu-tsegaye-a51551241/?originalSubdomain=et)
+**Researchers**  
 
-📍 in the attached [link](https://docs.google.com/document/d/1SO3opGka0IIqGg8_8CreLK9kGjlmSDVJhiIpYbrL-4I/edit?usp=sharing) you can find the draft of the research paper we are working on.
+- Academic Publications: Target regional journals
 
-### Secondary Target Audience
+- **GitHub Repository**: All datasets, Jupyter notebooks, and documentation are
+ available under an open, structured repo. We'll tag and summarize key findings
+ to enhance discoverability.
+- **Research-Oriented Policy Brief**: A short, digestible summary of our
+ methodology, key findings, data limitations, and a call to action to encourage
+ reuse and collaboration.
 
-The Humanitarian Coordinator  
-__Persona:__ NGO Practitioner  
-__Name:__ David Okello  
-__Role:__ Disaster Response and Resilience Lead, regional NGO (Uganda & Ethiopia)  
-__Age:__ 41  
-__Bio:__
- With 15+ years in flood preparedness, WASH, and DRR, David coordinates programs across Uganda and Ethiopia, balancing rapid response with long-term resilience. Trusted in flood-prone communities and skilled in policy engagement, he has access to localized impact data and strong operational systems. While not a data analyst, he values clear, actionable evidence to target interventions, secure funding, and influence policy.
+**Inter Governmental Authority on Development**  
 
-__Capabilities:__
- David combines deep local knowledge, established DRR and WASH frameworks, access to field data, and policy navigation skills with proven capacity to implement rapid, community-level interventions.  
+- Sending them a proposal through email with:  
 
-__Constraints & Our Solutions:__
- He faces fragmented data, limited technical capacity, short funding cycles, and overly technical research outputs. We address this by providing harmonized datasets, ready-to-use maps and visuals, reusable data products, and operational recommendations aligned with his priorities.
+  - Why the project matters to IGAD’s mission
+  - Data needs
+  - Potential collaboration or support required
+  - Expected outcomes
+  - Supporting infographics to show our findings better
 
-__Engagement Strategy:__
- Send direct, personalized email briefs with key findings, visual summaries, and links to our GitHub repository.
+### What We Want Them to Learn
 
-__Key Message & Outcome:__
- Flood risk is shaped by urban growth, drainage, and settlement patterns , not rainfall alone. Our data complements his assessments, enabling better targeting, stronger proposals, and refined resilience strategies. Ideally, David integrates our outputs into planning, uses them in advocacy, shares ground-level data, and partners with us to co-create field-ready tools.
+**Researchers** & **Inter Governmental Authority on Development**  
+
+- Open-source tools and datasets like CHIRPS rainfall can enable cost-effective
+ local research
+- The relationship between urban expansion patterns and increasing flood
+ frequency in East African cities is nonlinear and locally variable
+- That **urban growth alone does not explain flood severity**,  the interaction
+ with rainfall variability, topography, and infrastructure is complex.
+- There is **a lack of high-quality, consistent data** covering critical
+ factors like infrastructure, informal settlements, and population vulnerability
+ in East African cities.
+- Our synthetic dataset offers a starting point for hypothesis testing, model
+ building, or even local validation studies.
+
+### How We Hope They Will Act
+
+**Researchers**  
+
+- Use our open-source datasets to **replicate, validate, or extend** our analysis.
+- **Contribute new data**, such as ground-truth flood observations,
+ infrastructure maps, or more granular urban growth layers.
+- Collaborate across fields, e.g., urban planners working with climate
+ scientists, to close data gaps and generate holistic solutions.
+- Publish further studies or tools that can inform policy and planning in
+ data-scarce urban regions.
+
+**Inter Governmental Authority on Development**  
+
+- Support regional data-sharing between countries.
+- Fund or facilitate pilot studies in vulnerable urban areas.
+
+---
+
+This is a [draft](https://docs.google.com/document/d/1SO3opGka0IIqGg8_8CreLK9kGjlmSDVJhiIpYbrL-4I/edit?tab=t.0)
+ link of the research paper we are working on.
+
+---
+
+### Communication Channels
+
+<!-- markdownlint-disable MD013 -->
+| Channel         | Content Type                                      | Purpose                                      |
+|-----------------|---------------------------------------------------|----------------------------------------------|
+| Project Scientific Research Paper | Textual information regarding the project and interactive visuals | Central hub for all materials.                 |
+| E-mail | An email covering a broad overview of our project and link to our research paper. | To reach IGAD |
+| LinkedIn   |A brief overview of our project    | For professional outreach   |
+<!-- markdownlint-enable MD013 -->  
