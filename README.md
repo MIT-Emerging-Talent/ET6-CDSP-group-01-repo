@@ -72,13 +72,13 @@ We wanted to understand how the growth of cities like __Kampala and Addis Ababa_
     and flood events__, and what that might mean for future city planning.
 To do this, we looked at three main types of data:
 
-- 🏘️ __Urban Extent__ - *How much of each city is covered by buildings or built-up*
+- __Urban Extent__ - *How much of each city is covered by buildings or built-up*
  *land each year*.
 
-- 🌧️ __Rainfall__ – *How much rain fell each month, using high-resolution*
+- __Rainfall__ – *How much rain fell each month, using high-resolution*
  *satellite rainfall maps*.
 
-- 🌊 __Flood Extent__ – *How much of each city was covered by floodwaters each month*,
+- __Flood Extent__ – *How much of each city was covered by floodwaters each month*,
  *based on flood mapping from satellite images*.
 
 Since these data sets all come in __different formats and time scales__ (some are
@@ -88,9 +88,9 @@ Since these data sets all come in __different formats and time scales__ (some ar
     we used for the datasets. We combined the three datasets into one big table
      where each row represents a year for a city, with columns for:
 
-- 🌧️ Total rainfall in that year
-- 🏙️ Amount of urbanized land
-- 🌊 How much flooding occurred
+- Total rainfall in that year
+- Amount of urbanized land
+- How much flooding occurred
 
 This allowed us to look for patterns like:
 
@@ -144,6 +144,7 @@ Due to increased concrete, fewer trees, and faster runoff, it is simple to concl
 
     > 📌 This contradiction is called *Simpson's Paradox*, and it reminds us how important it is to examine cities individually before generalizing.
 
+
 2. 📈 __Size is not as important as Growth Rate__  
 
     - According to our data, the entire urban area had a weaker correlation with short-term flood risk than the Urban Growth Rate, which means periods of higher growth rate experienced more short-term floods.
@@ -188,7 +189,7 @@ We work together in the following ways:
 - [`Our Communication`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/collaboration/communication.md)
 - [`Our Constraints`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/collaboration/constraints.md)
 - [`Our Learning-goals`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/collaboration/learning_goals.md)
-- [`Our retrospectives`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/tree/milestone_0_retrospective/collaboration/retrospectives)
+- [`Our retrospectives`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/tree/updates/collaboration/retrospectives)
 
 ## Meet the amazing minds working on this project👩🏻‍🤝‍👨🏿
 
