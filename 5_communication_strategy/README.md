@@ -8,6 +8,10 @@
 - The secondary target audience we would like to reach is Intergovernmental
  Authority on Development([IGAD](https://igad.int/)).
 
+---
+
+## Researchers
+
 ### Research Personas
 
 [Assoc. Prof. Frank Mugagga](https://www.linkedin.com/in/frank-mugagga-35b95964/):
@@ -56,8 +60,6 @@
 
 ### Capabilities
 
-**Researchers**:  
-
 - Open to collaborations and comparative urban studies
 - Regularly engage with peer-reviewed research
 - Strong interest in practical case studies relevant to the local or regional context
@@ -66,32 +68,14 @@
 - Experience working with satellite data, spatial analysis, and time-series trends
 - Familiarity with open-source platforms and reproducible research
 
-**Inter Governmental Authority on Development**:  
-
-- IGAD’s mission includes regional cooperation on environmental protection,
- climate resilience, and disaster risk reduction.
-- IGAD Climate Prediction and Applications Centre (ICPAC) works on climate risk
- and early warning systems, including flood forecasting.
-- IGAD Disaster Risk Management Programme focuses on building resilience to
- natural hazards.
-
 ### Constraints
-
-**Researchers**:  
 
 - Time constraints due to teaching and administrative responsibilities
 - Limited inter-institutional collaboration or data sharing, especially across
  African contexts
 - Funding or time limitations to explore under-documented regions
 
-**Inter Governmental Authority on Development**:  
-
-- Funding limitations
-- Responses to proposals may take weeks or even months
-
 ### How we intend to Reach Them
-
-**Researchers**:  
 
 - Academic Publications: Target regional journals
 
@@ -102,35 +86,21 @@
  methodology, key findings, data limitations, and a call to action to encourage
  reuse and collaboration.
 
-**Inter Governmental Authority on Development**:  
-
-- Sending them a proposal through email with:  
-
-  - Why the project matters to IGAD’s mission
-  - Data needs
-  - Potential collaboration or support required
-  - Expected outcomes
-  - Supporting infographics to show our findings better
-
-### What We Want Them to Learn
-
-**Researchers** & **Inter Governmental Authority on Development**:  
+### What We Want Them to Learn  
 
 - Open-source tools and datasets like CHIRPS rainfall can enable cost-effective
  local research
-- The relationship between urban expansion patterns and increasing flood
- frequency in East African cities is nonlinear and locally variable
-- That **urban growth alone does not explain flood severity**,  the interaction
- with rainfall variability, topography, and infrastructure is complex.
+- When the two cities of focus were studied together, it was found that the data
+ from the built-up area and floods were closely related, indicating that as
+  cities grew, flood severity increased. However, when the cities were studied
+   separately, it was observed that floods reduced as the cities expanded.
 - There is **a lack of high-quality, consistent data** covering critical
- factors like infrastructure, informal settlements, and population vulnerability
- in East African cities.
+ factors like topography, land use, drainage infrastructure, population, and exposure
+ to strengthen the study.
 - Our synthetic dataset offers a starting point for hypothesis testing, model
  building, or even local validation studies.
 
-### How We Hope They Will Act
-
-**Researchers**:  
+### How We Hope They Will Act  
 
 - Use our open-source datasets to **replicate, validate, or extend** our analysis.
 - **Contribute new data**, such as ground-truth flood observations,
@@ -140,15 +110,59 @@
 - Publish further studies or tools that can inform policy and planning in
  data-scarce urban regions.
 
-**Inter Governmental Authority on Development**:  
+---
+
+## **Inter Governmental Authority on Development**(IGAD)
+
+**Capabilities:**  
+
+- IGAD’s mission includes regional cooperation on environmental protection,
+ climate resilience, and disaster risk reduction.
+- IGAD Climate Prediction and Applications Centre (ICPAC) works on climate risk
+ and early warning systems, including flood forecasting.
+- IGAD Disaster Risk Management Programme focuses on building resilience to
+ natural hazards.
+
+**Constraints:**  
+
+- Funding limitations
+- Responses to proposals may take weeks or even months
+
+**How we intend to Reach Them:**  
+
+- Sending them a proposal through email with:  
+
+  - Why the project matters to IGAD’s mission
+  - Data needs
+  - Potential collaboration or support required
+  - Expected outcomes
+  - Supporting infographics to show our findings better
+
+**What We Want Them to Learn:**  
+
+- The rapid growth of cities in the nile basin increases vulnerability to flooding
+ which threatens regional development goals, infrastructure, and population safety.
+- Flood severity isn't only about city expansion but depends on whether urban
+ growth is planned or unplanned.
+- Kampala indicates higher vulnerability, highlighting a need for city-specific
+ resilience strategies.
+- Severe data scarcity is limiting good planning and disaster preparedness in the
+ region.
+- Better data-sharing frameworks (rainfall, land use, infrastructure, population
+ exposure) could support both researchers and policymakers.
+
+**How We Hope They Will Act:**  
 
 - Support regional data-sharing between countries.
 - Fund or facilitate pilot studies in vulnerable urban areas.
 
 ---
 
-This is a [draft](https://docs.google.com/document/d/1SO3opGka0IIqGg8_8CreLK9kGjlmSDVJhiIpYbrL-4I/edit?tab=t.0)
+- This is a [draft](https://docs.google.com/document/d/1SO3opGka0IIqGg8_8CreLK9kGjlmSDVJhiIpYbrL-4I/edit?tab=t.0)
  link of the research paper we are working on.
+
+- Here is the [e-mail](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-01-repo/blob/main/5_communication_strategy/email_proposal.md)
+ proposal.
 
 ---
 
@@ -158,6 +172,6 @@ This is a [draft](https://docs.google.com/document/d/1SO3opGka0IIqGg8_8CreLK9kGj
 | Channel         | Content Type                                      | Purpose                                      |
 |-----------------|---------------------------------------------------|----------------------------------------------|
 | Project Scientific Research Paper | Textual information regarding the project and interactive visuals | Central hub for all materials.                 |
-| E-mail | An email covering a broad overview of our project and link to our research paper. | To reach IGAD |
+| E-mail | An email proposal covering a broad overview of our project and link to our research paper. | To reach IGAD |
 | LinkedIn   |A brief overview of our project    | For professional outreach   |
 <!-- markdownlint-enable MD013 -->  
