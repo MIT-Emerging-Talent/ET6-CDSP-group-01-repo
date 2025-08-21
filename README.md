@@ -144,7 +144,6 @@ Due to increased concrete, fewer trees, and faster runoff, it is simple to concl
 
     > 📌 This contradiction is called *Simpson's Paradox*, and it reminds us how important it is to examine cities individually before generalizing.
 
-
 2. 📈 __Size is not as important as Growth Rate__  
 
     - According to our data, the entire urban area had a weaker correlation with short-term flood risk than the Urban Growth Rate, which means periods of higher growth rate experienced more short-term floods.
