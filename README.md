@@ -15,8 +15,8 @@ Exploring Data Science with Python — Learning Together, Building Trust.
 
 We are a diverse team of aspiring data scientists brought together by a shared
 passion for solving real-world problems through data.
-Our project explores the relationship between urban growth and flood risk in East
- African cities, where rapid development meets the challenges of climate change.
+Our project explores the relationship between urban growth and flood risk in Nile
+ Basin cities, where rapid development meets the challenges of climate change.
 By combining satellite imagery, rainfall data, and open-source tools, we aim to
 uncover patterns that can support smarter urban planning and resilience.
 Through this journey, we’re not just learning to code — we’re learning to think
@@ -36,7 +36,7 @@ cities expand, natural land surfaces are replaced with buildings, roads,
 and other infrastructure. This change __reduces the land’s ability to
 absorb rainfall__, potentially leading to more severe and frequent floods.
 Despite these concerns, there is limited data-driven research quantifying the
-relationship between urbanization and flood extent in the __East African__ regions.
+relationship between urbanization and flood extent in the __Nile Basin__ region.
 
 This is where data science can play a transformative role. By leveraging
 satellite imagery, hydrological data, current and historical climate data, such
