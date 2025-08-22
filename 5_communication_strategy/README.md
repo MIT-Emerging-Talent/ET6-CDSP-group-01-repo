@@ -10,6 +10,8 @@
 
 ---
 
+## Primary Target Audience
+
 ## Researchers
 
 ### Research Personas
@@ -111,6 +113,8 @@
  data-scarce urban regions.
 
 ---
+
+## Secondary Target Audience
 
 ## **Inter Governmental Authority on Development**(IGAD)
 
