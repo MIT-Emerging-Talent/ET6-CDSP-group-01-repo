@@ -3,7 +3,7 @@
 <!-- markdownlint-disable MD045 -->
 <!-- markdownlint-disable MD013 -->
 
-![banner](notes/images/Urban%20Growth%20and%20Rising%20Waters.png)
+![banner](notes/images/project%20overview.png)
 
 ## __THE CURIOUS MINDS💡!__
 
