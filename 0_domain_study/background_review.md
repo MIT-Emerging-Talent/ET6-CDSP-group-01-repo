@@ -17,7 +17,7 @@ The focus of this study is to investigate the relationship between
 
 ---
 
-### 🏙️ Urbanization in East Africa
+### 🏙️ Urbanization in the Nile Basin
 
 According to the UN-Habitat and World Bank reports, African cities are among
  the fastest growing globally, but much of this growth is **informal** and
@@ -63,7 +63,7 @@ The consequences of urban flooding extend beyond physical damage to homes and
 - Increased poverty and loss of livelihoods.
 
 Yet, despite the growing prevalence of these events, **data-driven studies**
- **quantifying the link between urban growth and flooding in East African**
+ **quantifying the link between urban growth and flooding in Nile Basin**
   **cities are limited**.
 
 ---
