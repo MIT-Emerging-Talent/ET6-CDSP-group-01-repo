@@ -79,7 +79,8 @@ Limited data-driven research in this area motivated us to study the root causes
 ### 7. Communication Strategy
 
 - **Researchers**:  
-  - Shared our scientific paper.  
+  - Share our scientific paper, to be published on
+   [Meteorology Hydrology and Water Management](https://www.mhwm.pl/About-the-Journal,662.html).
   - Sent LinkedIn messages summarizing our project and linking to the GitHub repository.
 - **Intergovernmental Bodies** (e.g., IGAD):  
   - Reached out via e-mail.  
